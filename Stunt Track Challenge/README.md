@@ -1,1 +1,1 @@
-# Cars from Hotwheels Stunt Track Challenge
+# Cars from Hot Wheels Stunt Track Challenge
