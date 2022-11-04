@@ -10,7 +10,7 @@ Want to add a Custom Car to the repo? <br>
 5. Your car is added! One more thing. The folder will have a README.md that you can edit by selecting the pencil shaped button.
 6. Just add your credits with the format detailed ealier and select the green `Commit Changes` button.
 
-Don't want to edit the repo directly? (note that this is slower and you still need a github account)
+Don't want to edit the repo directly yourself? (note that this is slower and you still need a github account)
 1. Go to the [Issues](https://github.com/Distance-Modding/Custom-Cars/issues) tab and select the New Issues button. 
 2. Select the Get Started button for the Submit Car template
 3. Fill out the form as directed. Those who are able to edit the repo will then be able to add a car themselves
