@@ -1,9 +1,5 @@
-name: "Submit Car"
-description: "submit a car to the repo"
-title: "[Custom Car]: "
-labels: ["custom-car", "submission"]
-assignees:
-  - Tribow
+name: Submit Car
+description: submit a car to the repo
 body:
 - type: markdown
 attributes:
