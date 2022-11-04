@@ -12,7 +12,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: What's the name of your car?
+      label: What is the name of your car?
       description: The name of your car should be the same as the file name.
       placeholder: Enter name here...
     validations:
