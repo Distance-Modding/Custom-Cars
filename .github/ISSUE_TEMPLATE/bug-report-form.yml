@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         If your car looks like a mess of polygons like this:
-        ![Good lord what is happening in there!?](/.github/assets/img/customcardents.png)
+        ![Good lord what is happening in there!?](https://github.com/Distance-Modding/Custom-Cars/blob/main/.github/assets/img/customcardents.png)
         You may need to enable Car Dents in your graphics settings.
         
         Enabling car dents didn't solve it? Cool, fill in the info below:
