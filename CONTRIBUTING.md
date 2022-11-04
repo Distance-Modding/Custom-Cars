@@ -1,11 +1,16 @@
 # Contributing
-Firstly, check out the [Custom-Cars/Original Cars](Custom-Cars/Original Cars) folder. Cars are sorted into their applicable folders and then are credited in the README.md with this format:
+Firstly, check out the [Custom-Cars/Original Cars](https://github.com/Distance-Modding/Custom-Cars/tree/main/Original%20Cars) folder. Cars are sorted into their applicable folders and then are credited in the README.md with this format:
 CarName (Creator)
 
-In order to add your own cars to this repo, you first must make a github account and join the [Distance-Modding](https://github.com/Distance-Modding) organization. That way, you will have access to editing this repo and will be able to add your own car to any folder with the Add File button. You will also be able to edit the README.md in the folder to credit yourself or any others who worked on that car.
+In order to add your own cars to this repo, you first must make a github account and contact either Tribow or Omega so we can allow you to edit the repo. That way, you will have access uploading your own car to any folder with the Add File button. You will also be able to edit the README.md in the folder to credit yourself or any others who worked on that car.
 
-Don't want to join the Distance-Modding organization?
-Here is an alternative method to add your own car to the repo:
+Don't want to edit the repo directly? (note that this is slower)
+1. Go to the [Issues](https://github.com/Distance-Modding/Custom-Cars/issues) tab and select the New Issues button. 
+2. Select the Get Started button for the Submit Car template
+3. Fill out the form as directed. Those who are able to edit the repo will then be able to add a car themselves
+
+Don't want to edit the repo directly OR fill out an Issue form?
+Here is another alternative method to add your own car to the repo:
 1. Download and install [git](https://git-scm.com/) if you don't already have it.
 2. Log in to Github and Fork the repo by clicking the Fork button in the top right corner.
 3. Click the green `Clone or download` button, and copy the link.
@@ -27,3 +32,4 @@ Here is an alternative method to add your own car to the repo:
 10. Once the push has finished, create a Pull Request (PR) and click on `compare across forks`.
 11. In the `head repository` drop-down, select `YourName/Custom-Cars`.
 12. Hit the green `Create pull request` button, and then on the next page, the green `Create pull request` button again.
+13. Question your life decisions for choosing the hardest and most time consuming method.
