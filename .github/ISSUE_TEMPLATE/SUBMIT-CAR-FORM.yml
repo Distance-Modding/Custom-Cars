@@ -5,39 +5,39 @@ labels: ["custom-car", "submission"]
 assignees:
   - Tribow
 body:
-  - type: markdown
+- type: markdown
+attributes:
+  value: |
+    Thanks for taking the time to submit a custom car!
+- type: input
+  id: name
   attributes:
-    value: |
-      Thanks for taking the time to submit a custom car!
-  - type: input
-    id: name
-    attributes:
-      label: What is the name of your car?
-      description: The name of your car should be the same as the file name.
-      placeholder: Enter name here...
-    validations:
-      required: true
-  - type: input
-    id: folder
-    attributes:
-      label: What folder should it be in?
-      description: Let us know which folder in the repo your car belongs to.
-      placeholder: Enter folder name here... Subfolders should be indicated with /
-    validations:
-      required: true
-  - type: input
-    id: creator
-    attributes:
-      label: Who made this car?
-      description: Every creator involved in making this custom car should be listed here.
-      placeholder: Enter names here... Multiple names should be separated with ,
-    validations:
-      required: true
-  - type: input
-    id: download
-    attributes:
-      label: Where can we get your car?
-      description: Provide us a download link to your car so it can also be added to the repo.
-      placeholder: Enter link here...
-    validations:
-      required: true
+    label: What is the name of your car?
+    description: The name of your car should be the same as the file name.
+    placeholder: Enter name here...
+  validations:
+    required: true
+- type: input
+  id: folder
+  attributes:
+    label: What folder should it be in?
+    description: Let us know which folder in the repo your car belongs to.
+    placeholder: Enter folder name here... Subfolders should be indicated with /
+  validations:
+    required: true
+- type: input
+  id: creator
+  attributes:
+    label: Who made this car?
+    description: Every creator involved in making this custom car should be listed here.
+    placeholder: Enter names here... Multiple names should be separated with ,
+  validations:
+    required: true
+- type: input
+  id: download
+  attributes:
+    label: Where can we get your car?
+    description: Provide us a download link to your car so it can also be added to the repo.
+    placeholder: Enter link here...
+  validations:
+    required: true
