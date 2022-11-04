@@ -3,7 +3,7 @@ Firstly, check out the [Custom-Cars/Original Cars](https://github.com/Distance-M
 CarName (Creator) <br>
 <br>
 Want to add a Custom Car to the repo?
-1. In order to add your own cars to this repo, you first must make a github account and contact either Tribow or Omega on the [Distance Discord](https://discord.gg/distance) so we can allow you to edit the repo.
+1. In order to add your own cars to this repo, you first must make a github account and contact either Tribow or Omega on the [Distance Discord](https://discord.gg/distance) so we can allow you to edit the repo. (dont contact omega yet)
 2. Go to your desired folder you want to add a car to.
 3. Select the `Add File` dropdown and select `Upload Files`
 4. You will now be able add your custom car file to that folder. Once you're done select the green `Commit Changes` button
