@@ -1,0 +1,49 @@
+name: Report Bug
+description: Having an issue with a car model?
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If your car looks like a mess of polygons like this:
+        ![Good lord what is happening in there!?](/.github/assets/img/customcardents.png)
+        You may need to enable Car Dents in your graphics settings.
+        
+        Enabling car dents didn't solve it? Cool, fill in the info below:
+  - type: checkbox
+    id: dents
+    attributes:
+      label: Confirm
+      options:
+        - label: Yes, enabling car dents does not solve the issue.
+          required: true
+  - type: input
+    id: car
+    attributes:
+      label: Which car is the issue about?
+      description: The filename of the car with the issue.
+      placeholder: Enter name here...
+    validations:
+      required: true
+  - type: input
+    id: describe
+    attributes:
+      label: Briefly describe the issue.
+      description: What is the issue with this car?
+      placeholder: Enter issue description here...
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: Provide any screenshots of the issue.
+      placeholder: Link or upload screenshots here...
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Any further info?
+      description: Provide any additional information about the issue.
+    validations:
+      required: false
