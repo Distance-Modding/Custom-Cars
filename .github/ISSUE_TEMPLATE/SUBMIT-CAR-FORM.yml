@@ -1,5 +1,5 @@
 name: Submit Car
-description: submit a car to the repo
+description: Submit a new car to the repo
 labels: ["submission"]
 body:
   - type: markdown
