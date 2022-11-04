@@ -31,6 +31,6 @@ If you would rather watch videos then here's a playlist of [Omegapus' Video Tuto
 **Please note that these guides were made when the old modloader called "Spectrum" existed, but they are still applicable to the modern modloader.**
 
 ## I'm having issues with the mod!
-If your car looks like a mess of polygons, you may need to enable Car Dents in your graphics settings.
+If your car looks like a mess of polygons like this: ![Good lord what is happening in there!?](/.github/assets/img/customcardents.png) You may need to enable Car Dents in your graphics settings.
 
 For any other issues head over to the [Distance Discord](https://discord.gg/distance) and go to the #plugins channel. You may find some help there.
