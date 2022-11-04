@@ -10,7 +10,7 @@ body:
         You may need to enable Car Dents in your graphics settings.
         
         Enabling car dents didn't solve it? Cool, fill in the info below:
-  - type: checkbox
+  - type: checkboxes
     id: dents
     attributes:
       label: Confirm
