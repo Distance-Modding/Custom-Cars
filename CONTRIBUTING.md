@@ -1,8 +1,14 @@
 # Contributing
 Firstly, check out the [Custom-Cars/Original Cars](https://github.com/Distance-Modding/Custom-Cars/tree/main/Original%20Cars) folder. Cars are sorted into their applicable folders and then are credited in the README.md with this format: <br>
-CarName (Creator)
-
-In order to add your own cars to this repo, you first must make a github account and contact either Tribow or Omega so we can allow you to edit the repo. That way, you will have access uploading your own car to any folder with the Add File button. You will also be able to edit the README.md in the folder to credit yourself or any others who worked on that car.
+CarName (Creator) <br>
+<br>
+Want to add a Custom Car to the repo?
+1. In order to add your own cars to this repo, you first must make a github account and contact either Tribow or Omega on the [Distance Discord](https://discord.gg/distance) so we can allow you to edit the repo.
+2. Go to your desired folder you want to add a car to.
+3. Select the `Add File` dropdown and select `Upload Files`
+4. You will now be able add your custom car file to that folder. Once you're done select the green `Commit Changes` button
+5. Your car is added! One more thing. The folder will have a README.md that you can edit by selecting the pencil shaped button.
+6. Just add your credits with the format detailed ealier and select the green `Commit Changes` button.
 
 Don't want to edit the repo directly? (note that this is slower)
 1. Go to the [Issues](https://github.com/Distance-Modding/Custom-Cars/issues) tab and select the New Issues button. 
