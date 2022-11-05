@@ -13,9 +13,9 @@ grave_digger (Sunchipp) <br>
 grave_digger_30th (Sunchipp) <br>
 grave_digger_40th (Sunchipp) <br>
 grave_digger_legend (Sunchipp) <br>
+huracan performante red bishop (GAMEMASTER-THX) <br>
 lil_brat (Sunchipp) <br>
 maximum_destruction (Sunchipp) <br>
-huracan performante red bishop (GAMEMASTER-THX) <br>
 son_of_a_digger (Sunchipp) <br>
 the_scratches_tour_van (Sunchipp) <br>
 truck_gang (Sunchipp) <br>
