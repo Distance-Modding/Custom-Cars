@@ -9,7 +9,7 @@ def create_zip_directory(directory:str) -> None:
         ----------
         directory:str  the directory to be zipped"""
         zip_dir = os.path.join(os.getcwd(), "zipped")
-        file_path = os.path.join(zip_dir, directory + ".zip")
+        file_path = os.path.join(zip_dir, directory)
         folder_path = os.path.join(os.getcwd(), directory)
         shutil.make_archive(file_path, "zip", folder_path)
 
