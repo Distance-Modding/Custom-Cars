@@ -1,3 +1,8 @@
+"""This program zips all the directories, minus the blacklisted ones for a release
+this was made with python 3.10, using only standard libraries so you should be able 
+to install python and run this command. 
+"""
+
 import os
 import shutil
 
@@ -21,7 +26,7 @@ def main():
         shutil.rmtree(zip_dir)
   os.mkdir(zip_dir) 
 
-  #get all the directories in the project, remove .github repo
+  #get all the directories in the project, remove black listed directories
   files = os.listdir()
   dirs = [ d for d in files if os.path.isdir(d) and d not in directory_blacklist]
 
