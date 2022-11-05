@@ -1,6 +1,10 @@
 """This program zips all the directories, minus the blacklisted ones for a release
 this was made with python 3.10, using only standard libraries so you should be able 
 to install python and run this command. 
+
+to run the command you should be able to do the following once python is installed
+
+python3 zip_directories.py
 """
 
 import os
