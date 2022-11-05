@@ -11,3 +11,6 @@
 [Rocket League] Octane (Mei Rummy) <br>
 [Rocket League] Takumi (Mei Rummy) <br>
 [Rocket League] Twin Mill III (Mei Rummy) <br>
+rl_fennec (Sunchipp) <br>
+rl_octane (Sunchipp) <br>
+rl_dominus (Sunchipp) <br>
