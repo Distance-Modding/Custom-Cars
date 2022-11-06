@@ -29,4 +29,28 @@ Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-T
 Updated World Race Cars: Deora II, Switchback, Slingshot, Sidedraft, 24/Seven, Pony Up, Ballistik, Power Pistons, Twin Mill, Krazy 8's, MST-Suzuka, 70's Roadrunner, Quarter Mile Coupe - General Kenobi (General Kenobi #2992)
 
 TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
+
+
+
  
+Acceleron Cars: (All Acceleron Cars available on OPUS discord via Special Circumstances.) 
+Shitpost Acceleron Cars: Woodmobile (Design: MrXano / Model: OPUS) 
+
+Acceleron Car Credits:
+
+Modeling: 
+
+Everything: OPUS 
+Shredster: OPUS
+Sinistra: Axxl
+
+Updated Aeroderivative and Covelight: General Kenobi
+
+Designs
+
+Adamastor: MrXano
+Systemic: PinesOfChaos
+Roadbuster, Resonator, Phorocyte: DK
+Volidium, XM-A1 Metalizer, Osteovoltaic, Crossout, Aeroderivative: Commissar Herso
+Knife-mobile: ChrisC02
+
