@@ -25,4 +25,4 @@ Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-T
 
 Updated World Race Cars: Deora II, Switchback, Slingshot, Sidedraft, 24/Seven, Pony Up, Ballistik, Power Pistons, Twin Mill, Krazy 8's, MST-Suzuka, 70's Roadrunner, Quarter Mile Coupe - General Kenobi (Discord Tag)
 
-TEKU 24-Seven - DK 
+TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK
