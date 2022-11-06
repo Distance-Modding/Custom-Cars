@@ -1,3 +1,3 @@
 # Acceleracers Teku Cars
 
-Optional Reverb Remaster Model available via OPUS patreon. 
+Optional Reverb Remaster Model and Nightlife Model available via OPUS patreon. 
