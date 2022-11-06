@@ -10,11 +10,7 @@ Octanium - ItsNewtz (#Newt#6977)
 
 Synkro, Power Rage, and Deora II Teku Texture - zShirui
 
-Models from Track Attack, Stunt Track Challenge, HW World Race (THQ), and Battle Force 5 - Ripped by ValkenVugen
-
 Nitrium (V) - ValkenVugen
-
-Models from HW35 (Planet Hot Wheels) - Ripped by Thor
 
 RD-02, Bassline, Synkro, Power Rage, Riveted - Axxl (@axxl#1493) 
 
