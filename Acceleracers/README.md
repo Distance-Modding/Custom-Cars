@@ -36,7 +36,9 @@ Acceleron Car Credits:
 Modeling: 
 
 Everything: OPUS 
+
 Shredster: OPUS
+
 Sinistra: Axxl
 
 Updated Aeroderivative and Covelight: General Kenobi
@@ -44,8 +46,12 @@ Updated Aeroderivative and Covelight: General Kenobi
 Designs
 
 Adamastor: MrXano
+
 Systemic: PinesOfChaos
+
 Roadbuster, Resonator, Phorocyte: DK
+
 Volidium, XM-A1 Metalizer, Osteovoltaic, Crossout, Aeroderivative: Commissar Herso
+
 Knife-mobile: ChrisC02
 
