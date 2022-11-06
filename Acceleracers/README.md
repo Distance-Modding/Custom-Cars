@@ -26,8 +26,6 @@ Ratified, RD-08, RD-03, RD-06, RD-01, Iridium, Drift Tech, and Anthracite - jmsb
 
 Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-Tyte, Carbide, Covelight, Technetium - General Kenobi
 
-Updated World Race Cars: Deora II, Switchback, 40 Something, Slingshot, Sidedraft, 24/Seven, Pony Up, Ballistik, Power Pistons, Twin Mill, Krazy 8's, MST-Suzuka, 70's Roadrunner, Quarter Mile Coupe - General Kenobi (General Kenobi #2992)
-
 TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
 
 
