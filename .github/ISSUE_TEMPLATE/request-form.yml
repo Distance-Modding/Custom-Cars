@@ -14,8 +14,8 @@ body:
       options:
         - Yes, the model does not already exist.
         - I am requesting a variation of an existing model.
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: car
     attributes:
