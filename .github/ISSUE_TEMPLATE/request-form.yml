@@ -1,0 +1,41 @@
+name: Model Request
+description: Want to request a new model?
+labels: ["request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        "## Please make sure the model you're requesting does not already exist.
+        Use the search bar in the top left, and select `in this repository`."
+  - type: dropdown
+    id: exists
+    attributes:
+      label: Confirm
+      options:
+        - Yes, the model does not already exist.
+        - I am requesting a variation of an existing model.
+      validations:
+        required: true
+  - type: input
+    id: car
+    attributes:
+      label: What is the name & source of the model?
+      description: Provide the name and source material for the model. (i.e. Batmobile from Arkham Knight)
+      placeholder: Enter name & source here...
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: Images
+      description: Provide any images of the original that you want the model to be based on.
+      placeholder: Link or upload images here...
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional info
+      placeholder: Give any extra info about the model here...
+    validations:
+      required: false
