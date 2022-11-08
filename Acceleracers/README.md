@@ -27,31 +27,19 @@ TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
 
 
  
-Acceleron Cars: (All Acceleron Cars available on OPUS discord via Special Circumstances.) 
+<details>
+  <summary>Acceleron Cars: [All Acceleron Cars available on ΩPUS discord via Special Circumstances](https://discord.gg/VhsSys9SFP)</summary> 
+ ## Acceleron Car Credits
+ ### Modeling 
+ * Everything: ΩPUS
+ * Shredster: ΩPUS
+ * Sinistra: Axxl
+ * Updated Aeroderivative and Covelight: General Kenobi
 
-Shitpost Acceleron Cars: Woodmobile (Design: MrXano / Model: OPUS) 
-
-Acceleron Car Credits:
-
-Modeling: 
-
-Everything: OPUS 
-
-Shredster: OPUS
-
-Sinistra: Axxl
-
-Updated Aeroderivative and Covelight: General Kenobi
-
-Designs
-
-Adamastor: MrXano
-
-Systemic: PinesOfChaos
-
-Roadbuster, Resonator, Phorocyte: DK
-
-Volidium, XM-A1 Metalizer, Osteovoltaic, Crossout, Aeroderivative: Commissar Herso
-
-Knife-mobile: ChrisC02
-
+ ### Designs
+  * Adamastor, Woodmobile: MrXano
+  * Systemic: PinesOfChaos
+   * Roadbuster, Resonator, Phorocyte: DK
+   * Volidium, XM-A1 Metalizer, Osteovoltaic, Crossout, Aeroderivative: Commissar Herso
+  * Knife-mobile: ChrisC02
+</details>
