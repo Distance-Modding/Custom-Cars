@@ -20,3 +20,5 @@ These cars are meant to be jokes. They can be from a wide range of sources, but 
   * ae86
 </details>
 
+ref-lamp-tor is made by Plasmawario <br>
+
