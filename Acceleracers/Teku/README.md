@@ -2,4 +2,4 @@
 
 *NFS Underground intensifies*
 
-Optional Reverb Remaster Model and Nightlife Model available via OPUS patreon. 
+Optional Reverb Remaster Model and Nightlife Model available via [ΩPUS discord](https://www.patreon.com/omegapus)
