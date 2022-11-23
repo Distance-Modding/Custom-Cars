@@ -2,4 +2,4 @@
 
 Haha funny robot
 
-Optional Drones version of Piledriver available on OPUS patreon.
+Optional Drones version of Piledriver available on [ΩPUS Patreon](https://www.patreon.com/omegapus)
