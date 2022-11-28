@@ -34,10 +34,11 @@ These cars are meant to be jokes. They can be from a wide range of sources, but 
   * shrek_mobile
   * sm64_head
   * thanos_car
+  * ugandan_knuckles 
   * waluigi
   * wizpig
   * woody_and_buzz
-  * woomy 
+  * woomy
 </details>
 <details>
   <summary>Rhombus Cars</summary>
