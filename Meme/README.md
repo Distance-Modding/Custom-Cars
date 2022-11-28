@@ -28,4 +28,5 @@ These cars are meant to be jokes. They can be from a wide range of sources, but 
 
 ae86 is made by Zachphi <br>
 ref-lamp-tor is made by Plasmawario <br>
+Tesla Cybertruck is modelled by hashikemu on sketchfab
 
