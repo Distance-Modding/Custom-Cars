@@ -27,3 +27,5 @@ Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang B
   * sunchipp_s_metarod
   * takara_buggy
 </details>
+
+[Yu-Gi-Oh] Yusei was done by Kert Wernie. (This custom car is meant for first person mode!)
