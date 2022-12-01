@@ -1,6 +1,6 @@
 # Miscellanious Cars.
 These cars can originate from a variety of sources, but there are not enough to make a whole new category for them.
-Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang Bang, Wipeout, Mario Kart, Blaster Master, Takara (Toyline)
+Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang Bang, Wipeout, Mario Kart, Blaster Master, Takara (Toyline), Yu-Gi-Oh
 
 <details>
   <summary>Mei Rummy's Cars</summary>
