@@ -29,6 +29,8 @@
   * grave_digger_30th
   * grave_digger_40th
   * grave_digger_legend
+  * grave_digger_krysten1
+  * grave_digger_krysten2
   * lil_brat
   * maximum_destruction
   * son_of_a_digger
