@@ -30,7 +30,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * riot
 * riot_commander
 * road_wrecker
-* rock-n_-roll
 * sunchipp_s_pathfinder
 * sunchipps_hover-rod
 * sunchipps_rat-rod
