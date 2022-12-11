@@ -1,6 +1,7 @@
 # Miscellanious Cars.
 These cars can originate from a variety of sources, but there are not enough to make a whole new category for them.
-Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang Bang, Wipeout, Mario Kart, Blaster Master, Takara (Toyline), Yu-Gi-Oh
+Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang Bang, Wipeout, Mario Kart, Blaster Master, Takara (Toyline), Yu-Gi-Oh,
+San Fransisco Rush 2049, safari biathlon racer
 
 <details>
   <summary>Mei Rummy's Cars</summary>
@@ -26,6 +27,8 @@ Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang B
   * speed_star
   * sunchipp_s_metarod
   * takara_buggy
+  * Rocket ZX
+  * Maxon
 </details>
 
 [Yu-Gi-Oh] Yusei was done by Kert Wernie. (This custom car is meant for first person mode!)
