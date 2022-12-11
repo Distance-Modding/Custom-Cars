@@ -12,8 +12,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * blue_television_bike
 * blue_television_car
 * chugga-choo
-* demon_fire
-* hell_s_limo
 * hover-rod
 * hyper_driller
 * inversion
@@ -23,8 +21,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * lairmobile
 * laventhorn
 * mantis
-* maxon
-* mg-tc_hellspawn
 * muscle_duck
 * pixel_chopper
 * pixel_rod
@@ -35,8 +31,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * riot_commander
 * road_wrecker
 * rock-n_-roll
-* rocket_zx
-* sunchipp_s_monster-rod
 * sunchipp_s_pathfinder
 * sunchipps_hover-rod
 * sunchipps_rat-rod
