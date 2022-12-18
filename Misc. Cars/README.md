@@ -29,6 +29,8 @@ San Fransisco Rush 2049, safari biathlon racer
   * takara_buggy
   * Rocket ZX
   * Maxon
+  * Magnum
+  * Magnum Police
 </details>
 
 [Yu-Gi-Oh] Yusei was done by Kert Wernie. (This custom car is meant for first person mode!)
