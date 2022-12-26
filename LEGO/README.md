@@ -23,7 +23,6 @@ LEGO related cars
   * flickriver
   * hornet
   * island_racer
-  * jen_s_speeder
   * jens_speeder
   * lego_bubble_car
   * lego_monster_truck_60251
