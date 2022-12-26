@@ -26,7 +26,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * pixel_rod
 * rat-rod
 * rat-rod_pathfinder
-* rd-rtrd
+* rd-rtrd (Sunchipp's Racing Dronze Car)
 * riot
 * riot_commander
 * road_wrecker
