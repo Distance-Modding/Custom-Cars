@@ -35,6 +35,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * sunchipps_rat-rod
 * sunchipps_rat-rod (Old Version)
 * the_demonic_bull
+* Truck Gang (Ginger Billy Tribute)
 * ufo
   <summary>Other Cars</summary>
 </details>
