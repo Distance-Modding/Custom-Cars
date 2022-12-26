@@ -34,7 +34,6 @@
   * lil_brat
   * maximum_destruction
   * son_of_a_digger
-  * the_scratches_tour_van
   * truck_gang
   * vw beetle sunroof
   * vw_beetle
