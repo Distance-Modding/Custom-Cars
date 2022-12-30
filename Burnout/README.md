@@ -15,3 +15,8 @@
 ### Burnout 3 Takedown
 * [Burnout] Euro Circuit Racer
 </details>
+<details>
+  <summary>ΩPUS's Cars</summary>
+  
+  * [CRASH] Takedown 4x4
+</details>
