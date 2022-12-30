@@ -1,5 +1,5 @@
 # Miscellanious Hot Wheels Cars
-These cars may originate from certain Hotwheels games or be original models of Hotwheels cars.
+These cars may originate from certain Hotwheels games like Beat That, Track Attack, Ultimate Race, Race Off, and more. Some are original models of Hotwheels cars.
 
 <details>
   <summary>Sunchipp's Cars</summary>
