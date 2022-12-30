@@ -4,16 +4,16 @@ These cars may originate from certain Hotwheels games or be original models of H
 <details>
   <summary>Sunchipp's Cars</summary>
   
-  * creeper
-  * radio_flyer (Sunchipp) <br>
-  * rollcage (Sunchipp) <br>
-  * speedblaster (Sunchipp) <br>
-  * tow_jam (Sunchipp) <br>
-  * way_2_fast (Sunchipp) <br>
-  * radar_ranger (Sunchipp) <br>
-  * open_fire (Sunchipp) <br>
-  * treadator (Sunchipp) <br>
-  * ocelot (Sunchipp) <br>
+  * [Misc] Creeper
+  * [Misc] Radio Flyer (Sunchipp) <br>
+  * [Misc] Rollcage (Sunchipp) <br>
+  * [Misc] Speedblaster (Sunchipp) <br>
+  * [Misc] Tow Jam (Sunchipp) <br>
+  * [Misc] Way 2 Fast (Sunchipp) <br>
+  * [Misc] Radar Ranger (Sunchipp) <br>
+  * [Misc] Open Fire (Sunchipp) <br>
+  * [Misc] Treadator (Sunchipp) <br>
+  * [Misc] Ocelot (Sunchipp) <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
