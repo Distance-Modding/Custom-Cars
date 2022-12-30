@@ -20,3 +20,9 @@ These cars may originate from certain Hotwheels games or be original models of H
   
   * hwu-rodgerdodger
 </details>
+<details>
+  <summary>ΩPUS</summary>
+  
+  * [Misc] Phantasm
+  * [Misc] Rogue Hog
+</details>
