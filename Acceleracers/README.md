@@ -11,7 +11,7 @@ Cars based on the Hot Wheels Acceleracers series
 * RD-09 - @James1975#8656 
 * Ratified, RD-08, RD-03, RD-06, RD-01, Iridium, Drift Tech, and Anthracite - jmsbd07 (@jmsbd07#5389)
 * 288c - Hazel#2671
-* Nightlife, Sweeper Piledriver, Flat Fury, Jawhammer, Old Smokey, Accelium, Carbide, Titanium, [Teku] Chevy Blazer, [Teku] Ford Focus, Reverb, Acceledrome Test Vehicles, Drome Ambulance - ΩPUS
+* Nightlife, Sweeper Piledriver, Flathead Fury, Jawhammer, Old Smokey, Accelium, Carbide, Titanium, [Teku] Chevy Blazer, [Teku] Ford Focus, Reverb, Acceledrome Test Vehicles, Drome Ambulance - ΩPUS
 * Titanium - RedL's base model
 * Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-Tyte, Carbide, Covelight, Technetium - General Kenobi
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
