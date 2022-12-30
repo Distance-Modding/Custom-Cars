@@ -1,3 +1,5 @@
 # Cars from Hot Wheels Velocity X
-(not the gameboy version)
-Ripped and imported by an unknown person
+(not the gameboy version) <br>
+both MST-Suzuka's by ΩPUS <br>
+Other cars ripped and imported by an unknown person
+
