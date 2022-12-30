@@ -25,7 +25,7 @@
   * vw_beetle_damage
   * vw_beetle_herbie
 </details>
-<detils>
+<details>
   <summary>ΩPUS Cars</summary>
   
   * [Real] Chevy Blazer
