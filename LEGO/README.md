@@ -42,4 +42,6 @@ LEGO related cars
   * truck_thing
   * tsunami_street
   * turbo_tiger
+  * [IXS] Freeway Frenzy Stunt Car
+  * [IXS] Brickster Buggy
 </details>
