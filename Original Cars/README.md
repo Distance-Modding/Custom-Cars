@@ -42,5 +42,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 <details>
   <summary>Other Cars</summary>
 * Razorwing: (Design by Maus, Imported by General Kenobi) 
+* triangle: (Mei Rummy)
  </details>
 
