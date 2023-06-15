@@ -25,6 +25,7 @@
   * vw_beetle_damage
   * vw_beetle_herbie
   * 1973 AMC Gremlin
+  * 2023 Honda Accord Euro R
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
