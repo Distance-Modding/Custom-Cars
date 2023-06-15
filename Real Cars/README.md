@@ -24,7 +24,7 @@
   * vw_beetle
   * vw_beetle_damage
   * vw_beetle_herbie
-  *1973 AMC Gremlin
+  * 1973 AMC Gremlin
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
