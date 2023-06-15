@@ -26,6 +26,7 @@
   * vw_beetle_herbie
   * 1973 AMC Gremlin
   * 2023 Honda Accord Euro R
+  * 2016 Honda NSX
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
