@@ -61,3 +61,4 @@ ref-lamp-tor is made by Plasmawario <br>
 Thomas is made by ΩPUS
 Tesla Cybertruck is modelled by hashikemu on sketchfab
 
+BROKEN CARS: blue_eyes_white_dragon, Dom_s_Charger, trance sagitaurius, lemon car, mystery machine, rocket_racer, shaggy, ugandan knuckles, waluigi
