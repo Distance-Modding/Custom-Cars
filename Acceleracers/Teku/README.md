@@ -3,3 +3,5 @@
 *NFS Underground intensifies*
 
 Optional Reverb Remaster Model and Nightlife Model available via [ΩPUS Patreon](https://www.patreon.com/omegapus)
+
+Broken Cars: [Teku] High Voltage, [Teku] Power Rage
