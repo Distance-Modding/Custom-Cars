@@ -24,7 +24,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * mk_lair
   * mk_sunchipp
   * sophia_iii
-  * sophia zero
+  * sophia zero (custom particle lag warning)
   * speed_star
   * sunchipp_s_metarod
   * takara_buggy
