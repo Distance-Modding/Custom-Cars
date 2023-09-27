@@ -9,3 +9,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * MG-TC Hellspawn
   * Le-Macabre
   * Sunchipp's Monster-Rod
+  * BOOgatti Stinger
