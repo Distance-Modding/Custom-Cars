@@ -28,6 +28,7 @@
   * 2023 Honda Accord Euro R
   * 2016 Honda NSX
   * 1960 Aston Martin DB5 (custom Particle Lag Warning)
+  * The Red Baron [Plane]
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
