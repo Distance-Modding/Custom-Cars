@@ -27,7 +27,7 @@
   * 1973 AMC Gremlin
   * 2023 Honda Accord Euro R
   * 2016 Honda NSX
-  * 1960 Aston Martin DB5
+  * 1960 Aston Martin DB5 (custom Particle Lag Warning)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
