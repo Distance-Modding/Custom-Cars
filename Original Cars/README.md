@@ -38,6 +38,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * Truck Gang (Ginger Billy Tribute)
 * ufo
 * [SSA] Concept 1
+* [SSA] Blair
 </details>
 <details>
   <summary>Other Cars</summary>
