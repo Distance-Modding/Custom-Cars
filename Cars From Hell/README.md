@@ -10,3 +10,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Le-Macabre
   * Sunchipp's Monster-Rod
   * BOOgatti Stinger
+  * Devils Hand
