@@ -11,3 +11,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Sunchipp's Monster-Rod
   * BOOgatti Stinger
   * Devils Hand
+  * Blair Halloween
