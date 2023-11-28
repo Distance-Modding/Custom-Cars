@@ -14,6 +14,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Open Fire (Sunchipp) <br>
   * [Misc] Treadator (Sunchipp) <br>
   * [Misc] Ocelot (Sunchipp) <br>
+  * [Misc] Slideout (Sunchipp) <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
