@@ -30,6 +30,7 @@
   * 1960 Aston Martin DB5 (custom Particle Lag Warning)
   * The Red Baron [Plane]
   * 1970 Cadillac Hearse
+  * Zenvo ST1
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
