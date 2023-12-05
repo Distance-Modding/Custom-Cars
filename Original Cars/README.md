@@ -39,7 +39,6 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * ufo
 * [SSA] Concept 1
 * [SSA] Blair
-* Christmas F1
 </details>
 <details>
   <summary>Other Cars</summary>
