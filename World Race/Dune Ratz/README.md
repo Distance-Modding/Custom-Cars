@@ -1,4 +1,4 @@
-# Cars from the Dune Ratz team
+# Cars from the Dune Ratz Team
 
 Updated Dune Ratz Cars: Krazy 8's, Seared Tuner, MS-T Suzuka (One with Hyphen is Updated Car) 
 
