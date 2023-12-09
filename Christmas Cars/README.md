@@ -6,4 +6,5 @@ mainly cars made for the holidays :)
   <summary>Sunchipp's Cars</summary>
   
   * Christmas F1
+  * Jen's Speeder (Christmas Livery)
 </details>
