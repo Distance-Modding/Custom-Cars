@@ -39,6 +39,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * ufo
 * [SSA] Concept 1
 * [SSA] Blair
+* [SSA] Jen's Speeder (remodeled)
 </details>
 <details>
   <summary>Other Cars</summary>
