@@ -40,6 +40,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Concept 1
 * [SSA] Blair
 * [SSA] Jen's Speeder (remodeled)
+* [SSA] Blixem
 </details>
 <details>
   <summary>Other Cars</summary>
