@@ -33,6 +33,7 @@
   * Zenvo ST1
   * 56 Ford F100
   * 56 Ford F100 Lost
+  * Lexus-is300
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
