@@ -16,7 +16,7 @@ Once you have Centrifuge installed you'll need to go [here](https://github.com/D
 3. If asked to replace any files, replace them.
 4. Congrats you have the mod installed! Open the game and check your garage to make sure you did everything right.
 
-[There is a video tutorial for installing mods that uses the same steps in case you are still confused](https://www.youtube.com/watch?v=uCtIkddgybI)
+[There is a video tutorial for installing mods that uses the same steps in case you are still confused](https://www.youtube.com/watch?v=_dTqOPQ-RUQ)
 
 Now the fun part. <br>
 To add more custom cars, you can download them from here! Once downloaded, the files just need to be placed within the Assets folder. Don't know where that is? <br>
