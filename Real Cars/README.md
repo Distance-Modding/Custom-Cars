@@ -14,6 +14,7 @@
   * [Real] Koenigsegg Jesko Absolut
   * [Real] Lamborghini Veneno
   * [Real] Lancia Stratos 73 HF
+  * [Real] RUF CTR Yellowbird
 </details>
 <details>
   <summary>Sunchipp's Cars</summary>
