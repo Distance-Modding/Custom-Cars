@@ -12,3 +12,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * BOOgatti Stinger
   * Devils Hand
   * Blair Halloween
+  * IMP Van (Helluva Boss)
