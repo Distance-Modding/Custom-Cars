@@ -32,8 +32,6 @@
   * The Red Baron [Plane]
   * 1970 Cadillac Hearse
   * Zenvo ST1
-  * 56 Ford F100
-  * 56 Ford F100 Lost
   * Lexus-is300
 </details>
 <details>
