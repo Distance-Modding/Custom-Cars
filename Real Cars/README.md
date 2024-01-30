@@ -35,6 +35,7 @@
   * Lexus-is300
   * 1956 Ford F100 Van
   * 1956 Ford F100 Van (LOST MC)
+  * 1956 Ford F100 Van (Coca Cola)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
