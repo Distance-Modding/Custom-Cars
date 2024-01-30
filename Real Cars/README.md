@@ -33,6 +33,8 @@
   * 1970 Cadillac Hearse
   * Zenvo ST1
   * Lexus-is300
+  * 1956 Ford F100 Van
+  * 1956 Ford F100 Van (LOST MC)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
