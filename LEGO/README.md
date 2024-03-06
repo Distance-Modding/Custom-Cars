@@ -45,3 +45,6 @@ LEGO related cars
   * [IXS] Freeway Frenzy Stunt Car (custom particle lag warning)
   * [IXS] Brickster Buggy (custom particle lag warning)
 </details>
+
+More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
+https://thxdistancemidnightracingcity.netlify.app/
