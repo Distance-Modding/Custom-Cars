@@ -37,6 +37,7 @@
   * 1956 Ford F100 Van (LOST MC)
   * 1956 Ford F100 Van (Coca Cola)
   * 2013 Dodge Charger Police Car
+  * 2007 Ford Crown Victoria Police Car
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
