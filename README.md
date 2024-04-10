@@ -35,6 +35,8 @@ If you would rather watch videos then here's a playlist of [Omegapus' Video Tuto
 ## I'm having issues with the mod!
 If your car looks like a mess of polygons like this: ![Good lord what is happening in there!?](/.github/assets/img/customcardents.png) You may need to enable Car Dents in your graphics settings.
 
+If you're experiencing low fps whenever the Interceptor car opens its wings, try turning off motion blur in your graphics settings.
+
 If you're having issues with a specific car tell us about on the [Issues](https://github.com/Distance-Modding/Custom-Cars/issues) page. Select the `New Issues` button and then select the `Get Started` button for Report Bug.
 
 For any other issues head over to the [Distance Discord](https://discord.gg/distance) and go to the #plugins channel. You may find some help there.
