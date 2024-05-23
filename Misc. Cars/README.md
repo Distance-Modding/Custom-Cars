@@ -35,6 +35,6 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * The Liberator
   * Lil' Brat
 </details>
-
+Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 [Yu-Gi-Oh] Yusei was done by Kert Wernie. (This custom car is meant for first person mode!)
 [Misc] AE86 ChoroQ was done by ΩPUS
