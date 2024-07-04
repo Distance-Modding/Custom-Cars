@@ -25,6 +25,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * mk_sunchipp
   * sophia iii (updated with new model and custom particles)
   * sophia zero (updated with old custom boostjet)
+  * metal attacker (old sophia model but retouched)
   * speed_star
   * sunchipp_s_metarod
   * takara_buggy
