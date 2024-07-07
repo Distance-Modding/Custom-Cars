@@ -36,6 +36,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Magnum
   * Magnum Police
   * The Liberator
+  * Vigilante
   * Lil' Brat
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
