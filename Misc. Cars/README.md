@@ -35,7 +35,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Maxon
   * Magnum
   * Magnum Police
-  * The Liberator
+  * The Liberator (Works Best In Monster Truck Mode)
   * Vigilante
   * Lil' Brat
 </details>
