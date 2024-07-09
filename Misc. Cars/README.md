@@ -37,7 +37,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Magnum Police
   * The Liberator (Works Best In Monster Truck Mode)
   * Vigilante
-  * Scramjet
+  * Scramjet (Fixed BoostJet Position)
   * Lil' Brat
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
