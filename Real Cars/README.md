@@ -39,6 +39,7 @@
   * 2013 Dodge Charger Police Car
   * 2007 Ford Crown Victoria Police Car
   * BMW M3 GTR
+  * Hyundai N Vision 74
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
