@@ -40,6 +40,7 @@
   * 2007 Ford Crown Victoria Police Car
   * BMW M3 GTR
   * Hyundai N Vision 74
+  * Nissan GTR (Eastside Midnight Rush Promotion)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
