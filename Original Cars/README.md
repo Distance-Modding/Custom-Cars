@@ -41,6 +41,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Blair
 * [SSA] Jen's Speeder (remodeled)
 * [SSA] Blixem
+* Stealth Shock (Eastside Midnight Rush Promotion)
 </details>
 <details>
   <summary>Other Cars</summary>
