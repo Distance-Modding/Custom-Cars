@@ -32,7 +32,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * road_wrecker
 * sunchipp_s_pathfinder
 * sunchipps_hover-rod
-* Sunchipp's Rat-Rod (Remodeled 2024) (Eastside Midnight Rush Promotion)
+* Sunchipp's Rat-Rod (Remodeled 2024) (Eastside Midnight Rush Promotion) (Even exhaust particles)
 * sunchipps_rat-rod (Old Version)
 * the_demonic_bull
 * Truck Gang (Ginger Billy Tribute)
@@ -41,7 +41,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Blair
 * [SSA] Jen's Speeder (remodeled)
 * [SSA] Blixem
-* Stealth Shock (Eastside Midnight Rush Promotion)
+* Stealth Shock (Eastside Midnight Rush Promotion) (Light Glitch semi-fixed)
 </details>
 <details>
   <summary>Other Cars</summary>
