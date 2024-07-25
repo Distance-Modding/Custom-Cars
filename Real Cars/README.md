@@ -41,6 +41,7 @@
   * BMW M3 GTR
   * Hyundai N Vision 74
   * Nissan GTR (Eastside Midnight Rush Promotion)
+  * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
