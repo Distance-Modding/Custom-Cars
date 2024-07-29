@@ -6,3 +6,4 @@ Cars with flashing lights and/or cars with Police Decals/Liveries
   
   * 2007 Ford Crown Victoria
   * 2013 Dodge Charger Police
+  * Sunchipp's Rat-Rod (Police Version)
