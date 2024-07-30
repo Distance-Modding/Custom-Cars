@@ -39,6 +39,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Vigilante
   * Scramjet (Fixed BoostJet Position)
   * Lil' Brat
+  * Sophia J-7
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
