@@ -33,6 +33,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * sunchipp_s_pathfinder
 * sunchipps_hover-rod
 * Sunchipp's Rat-Rod (Remodeled 2024) (Eastside Midnight Rush Promotion) (Even exhaust particles)
+(Update: Rotation Jets Added)
 * sunchipps_rat-rod (Old Version)
 * the_demonic_bull
 * Truck Gang (Ginger Billy Tribute)
