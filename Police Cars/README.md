@@ -6,7 +6,7 @@ Cars with flashing lights and/or cars with Police Decals/Liveries
   
   * 2007 Ford Crown Victoria
   * 2013 Dodge Charger Police
-  * Sunchipp's Rat-Rod (Police Version)
+  * Sunchipp's Rat-Rod (Police Version) (Update: Rotation Jets Added)
 </details>
 <details>
 <summary>Tarles Black X's Cars</summary>
