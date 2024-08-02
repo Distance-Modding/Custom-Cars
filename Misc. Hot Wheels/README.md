@@ -8,7 +8,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Radio Flyer (Sunchipp) <br>
   * [Misc] Rollcage (Sunchipp) <br>
   * [Misc] Speedblaster (Sunchipp) <br>
-  * [Misc] Tow Jam (Sunchipp) <br>
+  * [Misc] Tow Jam (Sunchipp) (Rotation Thrusters Added) <br>
   * [Misc] Way 2 Fast (Sunchipp) <br>
   * [Misc] Radar Ranger (Sunchipp) <br>
   * [Misc] Open Fire (Sunchipp) <br>
