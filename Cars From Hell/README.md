@@ -13,3 +13,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Devils Hand
   * Blair Halloween
   * IMP Van (Helluva Boss)
+  * 55 porsche spyder (James Dean Curse)
