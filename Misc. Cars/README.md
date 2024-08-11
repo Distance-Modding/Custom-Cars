@@ -40,6 +40,9 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Scramjet (Fixed BoostJet Position)
   * Lil' Brat
   * Sophia J-7 (Flight Mode Corrected)
+  * Sophia III (Blaster Master Zero)
+  * Sophia III Destroyer Mode
+  * Sophia III DLC Version (Repaintable)
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
