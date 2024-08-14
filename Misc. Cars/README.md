@@ -43,6 +43,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Sophia III (Blaster Master Zero)
   * Sophia III Destroyer Mode
   * Sophia III DLC Version (Repaintable)
+  * Invem Sophia
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
