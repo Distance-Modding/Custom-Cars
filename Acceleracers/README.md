@@ -15,7 +15,8 @@ Cars based on the Hot Wheels Acceleracers series
 * Titanium - RedL's base model
 * Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-Tyte, Carbide, Covelight, Technetium - General Kenobi
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
-* Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl
+* TEKU Mazda Miata, SN-9863 (Drones) By Sunchipp
+* Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl, Sunchipp
 
 <details>
   <summary>Acceleron Cars:</summary>
