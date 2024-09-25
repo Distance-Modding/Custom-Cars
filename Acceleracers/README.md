@@ -16,6 +16,7 @@ Cars based on the Hot Wheels Acceleracers series
 * Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-Tyte, Carbide, Covelight, Technetium - General Kenobi
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
 * TEKU Mazda Miata, SN-9863 (Drones) By Sunchipp
+* [Silencerz] Mercedes W15 By Lewis Madilton
 * Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl, Sunchipp
 
 <details>
