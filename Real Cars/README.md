@@ -42,6 +42,7 @@
   * Hyundai N Vision 74 (Rotation Jets Added)
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
+  * Chevy Impala Nascar (Mountain Dew)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
