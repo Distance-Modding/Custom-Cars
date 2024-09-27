@@ -43,6 +43,7 @@
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
   * Chevy Impala Nascar (Mountain Dew)
+  * 82 Buick Regal (Mountain Dew)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
