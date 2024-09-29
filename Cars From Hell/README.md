@@ -15,4 +15,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * IMP Van (Helluva Boss)
   * 55 porsche spyder (James Dean Curse)
   * Christine
-  * Malumcordia (Name provided by Maus)
+  * Malumcordia (Crediting Maus for the name)
