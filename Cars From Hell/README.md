@@ -16,3 +16,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * 55 porsche spyder (James Dean Curse)
   * Christine
   * Malumcordia (Crediting Maus for the name)
+  * Malitulus (Crediting Maus for the name)
