@@ -9,6 +9,6 @@ Updated World Race Cars: Deora II, Switchback, 40 Something, Slingshot, Sidedraf
 
 Models from HW35 (Planet Hot Wheels) - Ripped by Thor
 
-Double Cross Ported by Sunchipp
+Double Cross, Deora 1 Ported by Sunchipp
 
 Imports are done by ΩPUS, General Kenobi, Natr
