@@ -20,11 +20,3 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Sol-Aire CX4 Halloween (Mnt Dew Voodew 2024)
   * Cornhorrendum
   * Dracomalus
-
-<details>
-  <summary>#Dread Fest 2024</summary>
-  Cars that were made specifically for Dread Fest 2024
-  * Malumcordia
-  * Malitulus
-  * Dracomalus
-  * Cornhorrendum
