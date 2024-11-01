@@ -1,5 +1,5 @@
 # Cars Spawned From Hell!
-Cars made to look like monsters or demons, One being from the Hazbin Hotel Series AND Helluvaboss Series. All cars made for the Month of Halloween
+Cars made to look like monsters or demons, One being from the Hazbin Hotel Series AND Helluvaboss Series. All cars made for the Month of Halloween/ Dread Fest
 
 <details>
   <summary>Sunchipp's Cars</summary>
@@ -20,3 +20,11 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Sol-Aire CX4 Halloween (Mnt Dew Voodew 2024)
   * Cornhorrendum
   * Dracomalus
+
+<details>
+  <summary>#Dread Fest 2024</summary>
+  Cars that were made specifically for Dread Fest 2024
+  * Malumcordia
+  * Malitulus
+  * Dracomalus
+  * Cornhorrendum
