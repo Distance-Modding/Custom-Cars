@@ -18,4 +18,5 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Malumcordia (Crediting Maus for the name) (Fixed)
   * Malitulus (Crediting Maus for the name) (Fixed)
   * Sol-Aire CX4 Halloween (Mnt Dew Voodew 2024)
+  * Cornhorrendum
   * Dracomalus
