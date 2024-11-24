@@ -44,6 +44,7 @@
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
   * Chevy Impala Nascar (Mountain Dew)
   * 82 Buick Regal (Mountain Dew)
+  * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
