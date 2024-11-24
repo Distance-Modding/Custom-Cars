@@ -32,7 +32,7 @@
   * The Red Baron [Plane]
   * 1970 Cadillac Hearse
   * Zenvo ST1
-  * Lexus-is300 (Eastside Midnight Rush Promotion)
+  * Lexus-is300 (Eastside Midnight Rush Promotion) (Rescaled)
   * 1956 Ford F100 Van
   * 1956 Ford F100 Van (LOST MC)
   * 1956 Ford F100 Van (Coca Cola)
