@@ -11,4 +11,5 @@ Why drive when you can race on foot!?!? It won't hurt right?
   * Shrek
   * Tyrannosaurus
   * The Berg
+  * Scrapman
 </details>
