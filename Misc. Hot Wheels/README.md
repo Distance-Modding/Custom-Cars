@@ -17,6 +17,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Slideout (Sunchipp) <br>
   * [Misc] Sol-Aire CX4 (Sunchipp)
   * [Misc] VW Drag Bus (Sunchipp) <br>
+  * [Misc] Silhouette <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
