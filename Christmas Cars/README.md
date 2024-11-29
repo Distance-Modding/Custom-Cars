@@ -9,4 +9,5 @@ mainly cars made for the holidays :)
   * Jen's Speeder (Christmas Livery)
   * Christmas Rat Rod
   * Blixem
+  * Sugar Rush
 </details>
