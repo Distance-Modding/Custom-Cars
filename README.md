@@ -11,10 +11,11 @@ You can learn how to do that here:
 - [(Video Tutorial)](https://www.youtube.com/watch?v=1svWX6mioKI)
 
 Once you have Centrifuge installed you'll need to go [here](https://github.com/Distance-Modding/Mod.CustomCar/releases) and follow these steps:
-1. Download the Distance.Custom.Car.zip file under the latest release.
-2. Extract the zip file into the same directory Centrifuge is installed in. (Centrifuge should be installed in your Distance_Data folder)
-3. If asked to replace any files, replace them.
-4. Congrats you have the mod installed! Open the game and check your garage to make sure you did everything right.
+1. Download the Distance.Custom.Car.zip file.
+   * If you're using Centrifuge, you'll want to download the `Workflow-Automated Deployment [#3]` version from Sep 5, 2021, not the `BepInEx Build` version.
+3. Extract the zip file into the same directory Centrifuge is installed in. (Centrifuge should be installed in your Distance_Data folder)
+4. If asked to replace any files, replace them.
+5. Congrats you have the mod installed! Open the game and check your garage to make sure you did everything right.
 
 [There is a video tutorial for installing mods that uses the same steps in case you are still confused](https://www.youtube.com/watch?v=_dTqOPQ-RUQ)
 
