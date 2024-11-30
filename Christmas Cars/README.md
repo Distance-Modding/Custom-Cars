@@ -10,4 +10,6 @@ mainly cars made for the holidays :) (and DAC Events)
   * Christmas Rat Rod
   * Blixem
   * Sugar Rush
+  * Sugar Shock
+  * Turbo Treat
 </details>
