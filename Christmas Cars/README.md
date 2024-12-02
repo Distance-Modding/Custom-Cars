@@ -12,4 +12,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Sugar Rush
   * Sugar Shock
   * Turbo Treat
+  * Clown Car (DAC)
 </details>
