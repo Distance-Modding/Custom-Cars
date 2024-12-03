@@ -15,4 +15,4 @@ Vinyls and Decals: Dropkick (Dropkick#9618), ValkyrieZV (ValkyrieZV#0317), Natr 
 
 Wheels: Kenobi (General Kenobi#2992)
 
-Importing: LolBengals (Lolbengals#2020)
+Importing: LolBengals (Lolbengals#2020) and General Kenobi  (General Kenobi#2992)
