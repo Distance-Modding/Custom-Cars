@@ -9,7 +9,7 @@ Sol-Air CX-4, Ground FX: Waymint (Waymint#8725)
 
 Jet Threat 3.0, Splittin' Image, Swoopy Do: Hazel (♡Hazel♡#0074)
 
-Bisector, Vector WX-3: Axxl (Axxl
+Bisector, Vector WX-3: Axxl
 
 Vinyls and Decals: Dropkick (Dropkick#9618), ValkyrieZV (ValkyrieZV#0317), Natr (Natr#9792)
 
