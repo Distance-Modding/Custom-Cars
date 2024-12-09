@@ -12,7 +12,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Way 2 Fast (Sunchipp) <br>
   * [Misc] Radar Ranger (Sunchipp) <br>
   * [Misc] Open Fire (Sunchipp) <br>
-  * [Misc] Treadator (Sunchipp) <br>
+  * [Misc] Treadator (Sunchipp) (Grip Thrusters Added) <br>
   * [Misc] Ocelot (Sunchipp) <br>
   * [Misc] Slideout (Sunchipp) <br>
   * [Misc] Sol-Aire CX4 (Sunchipp)
