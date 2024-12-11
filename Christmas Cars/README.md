@@ -14,5 +14,6 @@ mainly cars made for the holidays :) (and DAC Events)
   * Turbo Treat
   * Clown Car (DAC)
   * Malumcordia
-  * Treadator
+  * Treadator (DAC)
+  * Arctic Buggy (DAC)
 </details>
