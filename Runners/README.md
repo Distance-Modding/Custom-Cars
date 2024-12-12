@@ -12,4 +12,5 @@ Why drive when you can race on foot!?!? It won't hurt right?
   * Tyrannosaurus
   * The Berg
   * Scrapman
+  * Tomato
 </details>
