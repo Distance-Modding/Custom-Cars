@@ -39,7 +39,7 @@
   * 2013 Dodge Charger Police Car
   * 2007 Ford Crown Victoria Police Car
   * BMW M3 GTR
-  * Hyundai N Vision 74 (Rotation Jets Added)
+  * Hyundai N Vision 74 (Fixed Rear Wheels, Replaced Flight Mode)
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
   * Chevy Impala Nascar (Mountain Dew)
