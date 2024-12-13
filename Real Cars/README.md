@@ -38,7 +38,7 @@
   * 1956 Ford F100 Van (Coca Cola)
   * 2013 Dodge Charger Police Car
   * 2007 Ford Crown Victoria Police Car
-  * BMW M3 GTR
+  * BMW M3 GTR (Updated with HD Textures and glass fix)
   * Hyundai N Vision 74 (Fixed Rear Wheels, Replaced Flight Mode)
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
