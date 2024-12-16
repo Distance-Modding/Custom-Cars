@@ -42,7 +42,7 @@
   * Hyundai N Vision 74 (Fixed Rear Wheels, Replaced Flight Mode)
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
-  * Chevy Impala Nascar (Mountain Dew)
+  * Chevy Impala Nascar (Mountain Dew) (updated Boost Jets)
   * 82 Buick Regal (Mountain Dew) (Boost Jets updated)
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
 </details>
