@@ -17,7 +17,7 @@ Cars based on the Hot Wheels Acceleracers series
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
 * TEKU Mazda Miata, SN-9863 (Drones), TEKU Deora 1 By Sunchipp
 * [Silencerz] Mercedes W15 And W15 Livery 2 By Lewis Madilton 
-* Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl, Sunchipp
+* Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl, Sunchipp, LolBengals
 
 <details>
   <summary>Acceleron Cars:</summary>
