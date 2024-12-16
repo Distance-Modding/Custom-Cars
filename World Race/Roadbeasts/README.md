@@ -7,3 +7,5 @@ Updated Roadbeasts Cars: Ballistik, Twin Mill, Power Pistons
 12/10/23 Updated: Zotic
 
 12/20/23 Updated: Zotic, Moto-Crossed
+
+12/16/24 Updated: Double Cross
