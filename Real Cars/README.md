@@ -43,7 +43,7 @@
   * Nissan GTR (Eastside Midnight Rush Promotion)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
   * Chevy Impala Nascar (Mountain Dew)
-  * 82 Buick Regal (Mountain Dew)
+  * 82 Buick Regal (Mountain Dew) (Boost Jets updated)
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
 </details>
 <details>
