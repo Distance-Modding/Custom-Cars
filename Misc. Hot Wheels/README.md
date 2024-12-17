@@ -9,7 +9,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Rollcage (Sunchipp) <br>
   * [Misc] Speedblaster (Sunchipp) (Updated window, added interior, new wheels and rotation jets added) <br>
   * [Misc] Tow Jam (Sunchipp) (Rotation Thrusters Added) (Fixed wheel bug) <br>
-  * [Misc] Way 2 Fast (Sunchipp) <br>
+  * [Misc] Way 2 Fast (Sunchipp) (updated wheels) <br>
   * [Misc] Radar Ranger (Sunchipp) <br>
   * [Misc] Open Fire (Sunchipp) <br>
   * [Misc] Treadator (Sunchipp) (Grip Thrusters Added) <br>
