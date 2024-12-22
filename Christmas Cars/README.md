@@ -16,4 +16,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Malumcordia
   * Treadator (DAC)
   * Arctic Buggy (DAC)
+  * Magnum (Bacorn Robotics)
 </details>
