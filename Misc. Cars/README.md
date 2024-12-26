@@ -24,7 +24,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * mk_lair
   * mk_sunchipp
   * sophia iii (updated with new model and custom particles)
-  * sophia zero (updated with old custom boostjet)
+  * sophia zero (updated New Boost Jet effects)
   * metal attacker (old sophia model but retouched)
   * Gaia-SOPHIA
   * Gaia-SOPHIA SV
@@ -34,7 +34,6 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Rocket ZX
   * Maxon
   * Magnum
-  * Magnum Police
   * The Liberator (Works Best In Monster Truck Mode)
   * Vigilante
   * Scramjet (Fixed BoostJet Position)
