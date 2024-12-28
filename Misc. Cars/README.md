@@ -23,11 +23,11 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * mk_darby
   * mk_lair
   * mk_sunchipp
-  * sophia iii (updated with new model and custom particles)
+  * sophia iii (Updated Custom Jets V2)
   * sophia zero (updated New Boost Jet effects)
-  * metal attacker (old sophia model but retouched)
-  * Gaia-SOPHIA
-  * Gaia-SOPHIA SV
+  * metal attacker (Updated Custom Jets V2)
+  * Gaia-SOPHIA (Updated Custom Jets V2)
+  * Gaia-SOPHIA SV (Updated Custom Jets V2)
   * speed_star
   * sunchipp_s_metarod
   * takara_buggy
@@ -38,11 +38,11 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q
   * Vigilante
   * Scramjet (Fixed BoostJet Position)
   * Lil' Brat
-  * Sophia J-7 (Flight Mode Corrected)
-  * Sophia III (Blaster Master Zero)
-  * Sophia III Destroyer Mode
-  * Sophia III DLC Version (Repaintable)
-  * Invem Sophia
+  * Sophia J-7 (Updated Custom Jets V2)
+  * Sophia III (Blaster Master Zero) (Updated Custom Jets V2)
+  * Sophia III Destroyer Mode (Updated Custom Jets V2)
+  * Sophia III DLC Version (Repaintable) (Updated Custom Jets V2)
+  * Invem Sophia (Updated Custom Jets V2)
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
