@@ -5,15 +5,18 @@ a repo made for all community cars using the [CustomCar](https://github.com/Dist
 Please see CONTRIBUTING.md to learn how to add your own car to this repo.
 
 ## How Do I Install Custom Cars?
-<details><summary>[NEW] Thunderstore</summary>
+<details open><summary>[NEW] Thunderstore</summary>
 
-Use Thunderstore app or r2modman to install the custom car mod: https://thunderstore.io/c/distance/
+1. Install either [Thunderstore app](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or [r2modman](https://r2modman.com/)
+2. Find Distance in the game list and select it, then select or create a profile for it.
+3. Select the Custom Car mod from the list of available mods.
+   - You may also want to get the Mod Configuration Manager mod, which gives you in-game settings for any mods you have installed.
+5. **Important:** Go into the Settings in Thunderstore or r2 and change the `Preloader.Entrypoint` to `UnityEngine.dll` instead of the default `UnityEngine.CoreModule.dll` or no mods will be loaded at all.
+6. Again in Settings, find the `Browse profile folder` option, and click it.
+7. In the profile folder, go into the `BepInEx\plugins\DistanceModdingTeam-Custom_Car_Mod\` folder, and create an `Assets` folder.
+   - Cars downloaded from this GitHub repo need to be placed in this Assets folder (or a subfolder within Assets).
 
-A video guide can be found [here](https://www.youtube.com/watch?v=3mH3Zw7xzgA).
-
-**One important detail to note:**
-
-Make sure when first adding mods to Distance via Thunderstore that you go into the BepinEx config and change the `Preloader.Entrypoint` to `UnityEngine.dll` instead of the default `UnityEngine.CoreModule.dll` or no mods will be loaded at all.
+**A video guide can be found [here](https://www.youtube.com/watch?v=3mH3Zw7xzgA)**.
 </details>
 
 <details><summary>[OLD] Centrifuge</summary>
