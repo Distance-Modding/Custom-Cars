@@ -36,7 +36,11 @@ Once you have Centrifuge installed you'll need to go [here](https://github.com/D
 
 Now the fun part. <br>
 To add more custom cars, you can download them from here! Once downloaded, the files just need to be placed within the Assets folder. Don't know where that is? <br>
-Navigate to your Centrifuge folder again then select Mods, Distance Custom Car, and there you should find the Assets folder. <br>
+
+- Thunderstore: Settings -> Browse profile folder -> BepinEx -> plugins -> DistanceModdingTeam-Custom_Car_Mod
+   - Inside the custom car mod folder, create an Assets folder. Any subfolders can be placed inside this Assets folder, and all car files should be somewhere within Assets.
+- Centrifuge: Navigate to your Centrifuge folder then select Mods, Distance Custom Car, and there you should find the Assets folder.
+
 <br>
 How to download cars from this repository you ask? <br>
 You can download cars invididually by navigating to their files and clicking the `Download` button. For example go to the [Corruptor's page](https://github.com/Distance-Modding/Custom-Cars/blob/main/Original%20Cars/Corruptor) and try downloading it. <br>
