@@ -5,8 +5,22 @@ a repo made for all community cars using the [CustomCar](https://github.com/Dist
 Please see CONTRIBUTING.md to learn how to add your own car to this repo.
 
 ## How Do I Install Custom Cars?
+<details><summary>[NEW] Thunderstore</summary>
+
+Use Thunderstore app or r2modman to install the custom car mod: https://thunderstore.io/c/distance/
+
+A video guide can be found [here](https://www.youtube.com/watch?v=3mH3Zw7xzgA).
+
+**One important detail to note:**
+
+Make sure when first adding mods to Distance via Thunderstore that you go into the BepinEx config and change the `Preloader.Entrypoint` to `UnityEngine.dll` instead of the default `UnityEngine.CoreModule.dll` or no mods will be loaded at all.
+</details>
+
+<details><summary>[OLD] Centrifuge</summary>
+
 First, you'll need the Centrifuge modloader for Distance.
 You can learn how to do that here:
+
 - [(Text Tutorial)](https://github.com/Centrifuge-Modding-Framework/Centrifuge/wiki/How-to-Install)
 - [(Video Tutorial)](https://www.youtube.com/watch?v=1svWX6mioKI)
 
@@ -18,6 +32,7 @@ Once you have Centrifuge installed you'll need to go [here](https://github.com/D
 5. Congrats you have the mod installed! Open the game and check your garage to make sure you did everything right.
 
 [There is a video tutorial for installing mods that uses the same steps in case you are still confused](https://www.youtube.com/watch?v=_dTqOPQ-RUQ)
+</details>
 
 Now the fun part. <br>
 To add more custom cars, you can download them from here! Once downloaded, the files just need to be placed within the Assets folder. Don't know where that is? <br>
