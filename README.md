@@ -6,6 +6,8 @@ Please see CONTRIBUTING.md to learn how to add your own car to this repo.
 
 ## How Do I Install Custom Cars?
 <details open><summary>[NEW] Thunderstore</summary>
+   
+If you previously had Centrifuge installed, you **must** first uninstall Distance (and make sure Distance's install folder is completely deleted - `..\Steam\steamapps\common\Distance\`) before reinstalling it and starting with Thunderstore.
 
 1. Install either [Thunderstore app](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) or [r2modman](https://r2modman.com/)
 2. Find Distance in the game list and select it, then select or create a profile for it.
