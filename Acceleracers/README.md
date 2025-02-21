@@ -6,7 +6,6 @@ Cars based on the Hot Wheels Acceleracers series
 * CM5 & CM6 Wheels Model (The wheels on most of the cars) - Nicolas D'avila
 * Octanium - ItsNewtz (#Newt#6977) 
 * Synkro, Power Rage, and Deora II Teku Texture - zShirui
-* Nitrium (V) - ValkenVugen
 * RD-02, Bassline, Synkro, Power Rage, Riveted - Axxl (@axxl#1493) 
 * RD-09 - @James1975#8656 
 * Ratified, RD-08, RD-03, RD-06, RD-01, Iridium, Drift Tech, and Anthracite - jmsbd07 (@jmsbd07#5389)
@@ -17,6 +16,8 @@ Cars based on the Hot Wheels Acceleracers series
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
 * TEKU Mazda Miata, SN-9863 (Drones), TEKU Deora 1 By Sunchipp
 * [Silencerz] Mercedes W15 And W15 Livery 2 By Lewis Madilton 
+* Updated Hollowback + Spinebuster - ValkenVugen
+* * Nitrium (V) - ValkenVugen
 * Imports By: DK, Natr, ΩPUS, zShirui, General Kenobi, Axxl, Sunchipp, LolBengals
 
 <details>
