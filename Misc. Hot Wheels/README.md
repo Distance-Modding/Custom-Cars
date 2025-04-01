@@ -6,7 +6,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   
   * [Misc] Creeper
   * [Misc] Radio Flyer (Sunchipp) <br>
-  * [Misc] Rollcage (Sunchipp) <br>
+  * [Misc] Rollcage (Sunchipp) (NEW MODEL) <br>
   * [Misc] Speedblaster (Sunchipp) (Updated window, added interior, new wheels and rotation jets added) <br>
   * [Misc] Tow Jam (Sunchipp) (Rotation Thrusters Added) (Fixed wheel bug) <br>
   * [Misc] Way 2 Fast (Sunchipp) (updated wheels) <br>
