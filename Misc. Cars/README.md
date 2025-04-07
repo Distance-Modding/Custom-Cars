@@ -45,6 +45,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * Invem Sophia (Updated Custom Jets V2)
   * Koraidon
   * Miraidon
+  * Armored Kuruma
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
