@@ -13,7 +13,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * blue_television_car
 * chugga-choo
 * hover-rod
-* hyper_driller
+* hyper_driller (old)
 * inversion
 * iven
 * jetrod 
@@ -43,6 +43,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Jen's Speeder (remodeled)
 * [SSA] Blixem
 * Stealth Shock (Eastside Midnight Rush Promotion) (Rotation Thrusters Added)
+* Hyper Driller (2025 Model)
 </details>
 <details>
   <summary>Other Cars</summary>
