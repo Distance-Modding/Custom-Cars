@@ -6,4 +6,6 @@ Optional Reverb Remaster Model and Nightlife Model available via [ΩPUS Patreon]
 
 Tekuized Mazda Miata by Sunchipp and Dropkick
 
+Teku Deora 1 by Sunchipp
+
 Broken Cars: [Teku] High Voltage, [Teku] Power Rage
