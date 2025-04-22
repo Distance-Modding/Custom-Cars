@@ -48,6 +48,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * Armored Kuruma
   * KITT Knight Rider
   * 93 Toyota Supra (Paul Walker)
+  * Mclaren Senna (Fast X)
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
