@@ -1,7 +1,7 @@
 # Miscellanious Cars.
 These cars can originate from a variety of sources, but there are not enough to make a whole new category for them.
 Series referenced here: Sega All-Stars Racing, Halo, Kirby, Chitty Chitty Bang Bang, Wipeout, Mario Kart, Blaster Master, Takara (Toyline), Yu-Gi-Oh,
-San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pokémon, Knight Rider
+San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pokémon, Knight Rider, Fast and Furious
 
 <details>
   <summary>Mei Rummy's Cars</summary>
