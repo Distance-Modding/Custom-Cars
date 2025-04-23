@@ -45,6 +45,7 @@
   * Chevy Impala Nascar (Mountain Dew) (updated Boost Jets)
   * 82 Buick Regal (Mountain Dew) (Boost Jets updated)
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
+  * McMurtry Spéirling
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
