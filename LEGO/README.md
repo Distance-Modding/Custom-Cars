@@ -45,6 +45,7 @@ LEGO related cars
   * [IXS] Freeway Frenzy Stunt Car (custom particle lag fixed)
   * [IXS] Brickster Buggy (custom particle lag fixed)
   * Life On Mars Blue Mech (update: Reanimated)
+  * Life On Mars Red Mech
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
