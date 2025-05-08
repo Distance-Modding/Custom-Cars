@@ -14,4 +14,5 @@ Why drive when you can race on foot!?!? It won't hurt right?
   * Scrapman
   * Tomato
   * Rat
+  * Choo Choo Charles
 </details>
