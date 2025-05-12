@@ -52,6 +52,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * General Lee (Redone)
   * Herbie (Redone)
   * Eagle 5
+  * Sophia IV
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
