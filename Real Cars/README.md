@@ -47,6 +47,7 @@
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
   * McMurtry Spéirling
   * [Real] Ferrari SF-25 [Lewis Madilton]
+  * Wienermobile
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
