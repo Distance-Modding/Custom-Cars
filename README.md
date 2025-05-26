@@ -55,7 +55,8 @@ If you want to download this entire repository and organize the files locally, y
 
 Oh you want to make custom cars yourself? Have a look at the [Custom Car Wiki](https://github.com/larnin/CustomCar/wiki) for details on how to do that. <br>
 If you would rather watch videos then here's a playlist of [Omegapus' Video Tutorial's](https://www.youtube.com/playlist?list=PLR498UPJ2bQYgqMnu66QPmULsltp3KvnC) <br>
-**Please note that these guides were made when the old modloader called "Spectrum" existed, but they are still applicable to the modern modloader.**
+for more custom car videos, here's a playlist of [Sunchipp's Video Tutorial's](https://www.youtube.com/playlist?list=PL7MNeK2fIgBlrO2W0ybZwPDZlYMqEt-mN) <br>
+**Please note that some of these guides were made when the old modloader called "Spectrum" existed, but they are still applicable to the modern modloader.**
 
 ## I'm having issues with the mod!
 If your car looks like a mess of polygons like this: ![Good lord what is happening in there!?](/.github/assets/img/customcardents.png) You may need to enable Car Dents in your graphics settings.
