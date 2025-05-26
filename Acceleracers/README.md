@@ -31,12 +31,13 @@ Cars based on the Hot Wheels Acceleracers series
  * Sinistra: Axxl
  * Updated Aeroderivative and Covelight: General Kenobi
 
-  All Acceleracers Cars designed by Sunchipp are Available on [Sunchipp's Discord] (https://discord.gg/jgXxmC2sBJ) For The Public
-
  ### Designs
   * Adamastor, Woodmobile: MrXano
   * Systemic: PinesOfChaos
    * Roadbuster, Resonator, Phorocyte: DK
    * Volidium, XM-A1 Metalizer, Osteovoltaic, Crossout, Aeroderivative: Commissar Herso
   * Knife-mobile: ChrisC02
+</details>
+  <summary>Sunchipp Cars:</summary>
+  All Acceleracers Cars designed by Sunchipp are Available on [Sunchipp's Discord] (https://discord.gg/jgXxmC2sBJ) For The Public
 </details>
