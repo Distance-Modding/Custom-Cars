@@ -39,5 +39,5 @@ Cars based on the Hot Wheels Acceleracers series
   * Knife-mobile: ChrisC02
 </details>
   <summary>Sunchipp Cars:</summary>
-  All Acceleracers Cars designed by Sunchipp are Available on [Sunchipp's Discord] (https://discord.gg/jgXxmC2sBJ) For The Public
+  All Acceleracers Cars designed by Sunchipp are Available on [Sunchipp's Discord](https://discord.gg/jgXxmC2sBJ) For The Public
 </details>
