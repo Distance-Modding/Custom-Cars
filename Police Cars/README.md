@@ -8,6 +8,7 @@ Cars with flashing lights and/or cars with Police Decals/Liveries
   * 2013 Dodge Charger Police
   * Sunchipp's Rat-Rod (Police Version) (Update: Fixed Position and Rotation)
   * Magnum (San Francisco Rush 2049)
+  * 1982 Foxbody Mustang
 </details>
 <details>
 <summary>Tarles Black X's Cars</summary>
