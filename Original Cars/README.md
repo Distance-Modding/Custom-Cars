@@ -24,7 +24,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * muscle_duck
 * pixel_chopper
 * pixel_rod
-* rat-rod
+* rat-rod (2024 Model) (Update: Centered Licence plate)
 * rat-rod_pathfinder
 * rd-rtrd (Sunchipp's Racing Dronez Car)
 * riot
@@ -44,6 +44,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Blixem
 * Stealth Shock (Eastside Midnight Rush Promotion) (Rotation Thrusters Added)
 * Hyper Driller (2025 Model)
+* Sunchipp's Rat-Rod Birthday Livery
 </details>
 <details>
   <summary>Other Cars</summary>
