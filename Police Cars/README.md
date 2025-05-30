@@ -6,7 +6,7 @@ Cars with flashing lights and/or cars with Police Decals/Liveries
   
   * 2007 Ford Crown Victoria
   * 2013 Dodge Charger Police
-  * Sunchipp's Rat-Rod (Police Version) (Update: Fixed Position and Rotation)
+  * Sunchipp's Rat-Rod (Police Version) (Update: centered licence plate)
   * Magnum (San Francisco Rush 2049)
   * 1982 Foxbody Mustang
 </details>
