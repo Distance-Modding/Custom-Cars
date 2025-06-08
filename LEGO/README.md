@@ -46,6 +46,7 @@ LEGO related cars
   * [IXS] Brickster Buggy (custom particle lag fixed)
   * Life On Mars Blue Mech (update: Reanimated)
   * Life On Mars Red Mech
+  * Stealth Roadster (Drome Racers)
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
