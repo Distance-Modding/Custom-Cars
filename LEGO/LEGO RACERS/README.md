@@ -5,3 +5,5 @@ Updated Rocket Racer and Veronica Voltage to be a bigger scale and to include Mi
 Updated King Kahuka with bigger scale and drive (5/22/25) (Also first custom car to feature transparent textures (sprite material on a 3D Model)
 
 Updated Basil The Batlord bigger scale and added transparent textures (6/4/25)
+
+Updated the rest of the drivers to a bigger scale and added mini figures (6/7/25)
