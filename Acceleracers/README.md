@@ -14,7 +14,7 @@ Cars based on the Hot Wheels Acceleracers series
 * Titanium - RedL's base model
 * Updated Car Models: RD-05, RD-04, RD-02, Battle Spec, Synkro, Power Rage, Spec-Tyte, Carbide, Covelight, Technetium - General Kenobi
 * TEKU 24-Seven, Metal Maniacs Plymouth Roadrunner - DK (Dropkick#9618)
-* TEKU Mazda Miata, SN-9863 (Drones), TEKU Deora 1, Metal Maniacs Rollcage, Acceleron Alien By Sunchipp
+* TEKU Mazda Miata, SN-9863 (Drones), TEKU Deora 1, Metal Maniacs Rollcage, Acceleron Alien, Teku Mini Truck By Sunchipp
 * [Silencerz] Mercedes W15 And W15 Livery 2 By Lewis Madilton 
 * Updated Hollowback + Spinebuster - ValkenVugen
 * * Nitrium (V) - ValkenVugen
