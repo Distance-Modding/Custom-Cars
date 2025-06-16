@@ -53,6 +53,7 @@ These cars are meant to be jokes. They can be from a wide range of sources, but 
   * cow
   * raymans_shoe
   * rock n' roll
+  * Pirate Ship (Works in Monster Truck Mode)
 </details>
 
 
