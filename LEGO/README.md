@@ -47,6 +47,7 @@ LEGO related cars
   * Life On Mars Blue Mech (update: Reanimated)
   * Life On Mars Red Mech
   * Stealth Roadster (Drome Racers)
+  * Raptor Stunt (Drome Racers)
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
