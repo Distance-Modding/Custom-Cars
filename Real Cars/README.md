@@ -46,14 +46,15 @@
   * 82 Buick Regal (Mountain Dew) (Boost Jets updated)
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
   * McMurtry Spéirling
-  * [Real] Ferrari SF-25 [Lewis Madilton]
   * Wienermobile
 </details>
 <details>
-  <summary>Lewis Cars</summary>
+  <summary>Lewis Madilton Cars</summary>
+  
   * [Real] 2023 Mercedes W14
   * [Real] 2023 W14 Crazy
   * [Real] 2024 MCL-38
+  * [Real] Ferrari SF-25
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
