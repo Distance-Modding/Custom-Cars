@@ -50,6 +50,12 @@
   * Wienermobile
 </details>
 <details>
+  <summary>Lewis Cars</summary>
+  * [Real] 2023 Mercedes W14
+  * [Real] 2023 W14 Crazy
+  * [Real] 2024 MCL-38
+</details>
+<details>
   <summary>ΩPUS Cars</summary>
   
   * [Real] Chevy Blazer
