@@ -19,6 +19,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] VW Drag Bus (Sunchipp) <br>
   * [Misc] Silhouette <br>
   * [Misc] Alien <br>
+  * [Misc] Hot Wheels 500 <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
