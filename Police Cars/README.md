@@ -11,6 +11,7 @@ WARNING: Some of these cars have only been updated for the Thunderstore and will
   * Magnum (San Francisco Rush 2049)
   * 1982 Foxbody Mustang
   * Prism
+  * Ford Explorer
 </details>
 <details>
 <summary>Tarles Black X's Cars</summary>
