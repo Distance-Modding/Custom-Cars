@@ -1,5 +1,6 @@
 # POLICE CARS!
 Cars with flashing lights and/or cars with Police Decals/Liveries
+WARNING: Some of these cars have only been updated for the Thunderstore and will not be updated here
 
 <details>
   <summary>Sunchipp's Cars</summary>
