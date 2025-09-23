@@ -20,3 +20,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Sol-Aire CX4 Halloween (Mnt Dew Voodew 2024)
   * Cornhorrendum
   * Dracomalus
+  * Dragon Blaster (First Car to feature Animated Flame Trails)
