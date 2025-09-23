@@ -7,3 +7,6 @@ code for yourself (just to play it safe)
 
 
 See [Sunchipp's Video](https://youtu.be/CKXdJNv7zUY?si=g4OFG2TX2t4KKuvj) on the topic here
+
+
+![OUCH!]([image_url](https://github.com/Distance-Modding/Custom-Cars/blob/main/.Flame%20Shader/233610_20250922164014_1.png?raw=true))
