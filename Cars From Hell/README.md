@@ -21,3 +21,7 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Cornhorrendum
   * Dracomalus
   * Dragon Blaster (First Car to feature Animated Flame Trails)
+  * Hollowback
+  * Deora II
+  * Covelight
+  * Ghost [Xalax] (with glow in the dark ability)
