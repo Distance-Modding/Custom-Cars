@@ -13,8 +13,8 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Devils Hand
   * Blair Halloween
   * IMP Van (Helluva Boss)
-  * 55 porsche spyder (James Dean Curse)
-  * Christine
+  * 55 porsche spyder (James Dean Curse) (Updated, removed custom particles, flame trail added)
+  * Christine (Updated, removed custom particles, sprites added, flame trail added)
   * Malumcordia (Crediting Maus for the name) (Fixed)
   * Malitulus (Crediting Maus for the name) (Fixed)
   * Sol-Aire CX4 Halloween (Mnt Dew Voodew 2024)
