@@ -25,3 +25,5 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Deora II
   * Covelight
   * Ghost [Xalax] (with glow in the dark ability)
+  * Night Shifter
+  * RD-06
