@@ -48,6 +48,7 @@ LEGO related cars
   * Life On Mars Red Mech
   * Stealth Roadster (Drome Racers)
   * Raptor Stunt (Drome Racers)
+  * Sam Sinister LR2
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
