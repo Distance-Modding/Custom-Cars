@@ -4,7 +4,7 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
 <details>
   <summary>Sunchipp's Cars</summary>
   
-  * Demon Fire (Motorcycle Mode)
+  * Demon Fire (Motorcycle Mode) (Update: New Model)
   * Hell's Limo (Hazbin Hotel)
   * MG-TC Hellspawn
   * Le-Macabre
@@ -27,3 +27,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Ghost [Xalax] (with glow in the dark ability)
   * Night Shifter
   * RD-06
+  * Velzarion
