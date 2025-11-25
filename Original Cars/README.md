@@ -45,6 +45,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * Stealth Shock (Eastside Midnight Rush Promotion) (Rotation Thrusters Added)
 * Hyper Driller (2025 Model)
 * Sunchipp's Rat-Rod Birthday Livery
+* Kairos (First Custom Car With Animated Wheels)
 </details>
 <details>
   <summary>Other Cars</summary>
