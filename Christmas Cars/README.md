@@ -17,4 +17,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Treadator (DAC)
   * Arctic Buggy (DAC)
   * Magnum (Bacorn Robotics)
+  * Bone Shaker (Chrismas Deco)
 </details>
