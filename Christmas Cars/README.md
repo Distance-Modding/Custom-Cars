@@ -19,4 +19,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Magnum (Bacorn Robotics)
   * Bone Shaker (Chrismas Deco)
   * Carbonator
+  * Reverb
 </details>
