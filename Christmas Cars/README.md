@@ -20,4 +20,6 @@ mainly cars made for the holidays :) (and DAC Events)
   * Bone Shaker (Chrismas Deco)
   * Carbonator
   * Reverb
+  * Sunchipp's Rat-Rod
+  * Shicane's Lexus IS-300
 </details>
