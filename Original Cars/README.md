@@ -35,7 +35,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * Sunchipp's Rat-Rod (Remodeled 2024) (Eastside Midnight Rush Promotion) (Even exhaust particles)
 (Update: Rotation Jets Added)
 * sunchipps_rat-rod (Old Version)
-* the_demonic_bull
+* the_demonic_bull (old)
 * Truck Gang (Ginger Billy Tribute)
 * ufo
 * [SSA] Concept 1
@@ -46,6 +46,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * Hyper Driller (2025 Model)
 * Sunchipp's Rat-Rod Birthday Livery
 * Kairos (First Custom Car With Animated Wheels)
+* Hellhorn
 </details>
 <details>
   <summary>Other Cars</summary>
