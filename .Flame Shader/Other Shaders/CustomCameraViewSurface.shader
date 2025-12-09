@@ -1,8 +1,10 @@
-﻿Shader "Custom/CameraViewSurface"
+Shader "Custom/CameraViewSurface"
 {
     Properties
     {
         _MainTex ("Camera RenderTexture", 2D) = "black" {}
+        _EmissionColor ("Emission Color", Color) = (0,0,0,0)
+        _EmissionStrength ("Emission Strength", Range(0,5)) = 1
     }
 
     SubShader
@@ -15,6 +17,8 @@
         #pragma target 3.0
 
         sampler2D _MainTex;
+        fixed4 _EmissionColor;
+        float _EmissionStrength;
 
         struct Input
         {
@@ -28,6 +32,9 @@
             o.Albedo = col.rgb;
             o.Smoothness = 0.0;
             o.Metallic = 0.0;
+
+            // Apply emission
+            o.Emission = _EmissionColor.rgb * _EmissionStrength;
         }
         ENDCG
     }
