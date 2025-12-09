@@ -7,5 +7,4 @@ key thing to keep in mind, these shaders need the donotreplace material in order
   
   <summary>Shaders</summary>
   
-  * Camera Shader
-attach this shader to a material to attach to a camera to see out of an invisible camera attached to the car
+  * Camera Shader - attach this shader to a material to attach to a camera to see out of an invisible camera attached to the car
