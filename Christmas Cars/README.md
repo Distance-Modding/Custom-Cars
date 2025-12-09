@@ -22,4 +22,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Reverb
   * Sunchipp's Rat-Rod
   * Shicane's Lexus IS-300
+  * Dodge Challenger
 </details>
