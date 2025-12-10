@@ -22,6 +22,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Hot Wheels 500 <br>
   * [Misc] Pass'n Go <br>
   * [Misc] Rapid Pulse <br>
+  * [Misc] Offtrack <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
