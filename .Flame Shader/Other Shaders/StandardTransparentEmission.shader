@@ -3,61 +3,61 @@ Shader "Custom/StandardTransparentEmission"
     Properties
     {
         _MainTex ("Texture", 2D) = "white" {}
-        _Color ("Color Tint", Color) = (1,1,1,1)
+        _Color ("Primary Color", Color) = (1,1,1,1)       // linked to color changer primary/secondary
+        _EmitColor ("Glow Color", Color) = (1,1,1)        // linked to color changer glow
         _Alpha ("Transparency", Range(0,1)) = 1
 
-        // Unlimited saturation input
         _Saturation ("Saturation", Float) = 1
-
-        _EmissionColor ("Emission Color", Color) = (0,0,0)
         _EmissionPower ("Emission Power", Range(0,5)) = 1
     }
 
     SubShader
     {
         Tags { "RenderType"="Transparent" "Queue"="Transparent" }
-
-        // Double-sided for Trail Renderer
-        Cull Off      
-
-        // Alpha blending
+        Cull Off
         Blend SrcAlpha OneMinusSrcAlpha
         ZWrite Off
 
         CGPROGRAM
-        #pragma surface surf Standard fullforwardshadows alpha:fade
+        #pragma surface surf Standard fullforwardshadows alpha:fade vertex:vert
 
         sampler2D _MainTex;
-        float4 _Color;
+        float4 _Color;          // primary/secondary color from garage
+        float3 _EmitColor;      // glow color from garage
         float _Alpha;
-
         float _Saturation;
-
-        float3 _EmissionColor;
         float _EmissionPower;
 
         struct Input
         {
             float2 uv_MainTex;
+            float4 color : COLOR;  // vertex color from Trail Renderer
         };
 
-        void surf (Input IN, inout SurfaceOutputStandard o)
+        void vert(inout appdata_full v, out Input o)
         {
+            UNITY_INITIALIZE_OUTPUT(Input,o);
+        }
+
+        void surf(Input IN, inout SurfaceOutputStandard o)
+        {
+            // Sample texture
             float4 tex = tex2D(_MainTex, IN.uv_MainTex);
-            float4 col = tex * _Color;
 
-            // ---------- SATURATION ADJUSTMENT (unlimited) ----------
-            float gray = dot(col.rgb, float3(0.299, 0.587, 0.114));
-            col.rgb = lerp(gray.xxx, col.rgb, _Saturation);
+            // Blend vertex color with material primary color (optional: can override with _Color fully)
+            float3 col = tex.rgb * _Color.rgb;
 
-            // Albedo
-            o.Albedo = col.rgb;
+            // Unlimited saturation
+            float gray = dot(col, float3(0.299, 0.587, 0.114));
+            col = lerp(gray.xxx, col, _Saturation);
 
-            // Transparency
-            o.Alpha = col.a * _Alpha;
+            // Albedo and alpha
+            o.Albedo = col;
+            o.Alpha = tex.a * _Alpha;
 
-            // Emission
-            o.Emission = _EmissionColor * _EmissionPower;
+            // Emission: texture * glow color * emission power
+            float3 emissionTex = tex.rgb;
+            o.Emission = emissionTex * _EmitColor * _EmissionPower;
         }
         ENDCG
     }
