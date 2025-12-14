@@ -3,7 +3,7 @@ Shader "Custom/CameraViewSurface"
     Properties
     {
         _MainTex ("Camera RenderTexture", 2D) = "black" {}
-        _EmissionColor ("Emission Color", Color) = (0,0,0,0)
+        _EmissionColor ("Emission Tint", Color) = (1,1,1,1)
         _EmissionStrength ("Emission Strength", Range(0,5)) = 1
     }
 
@@ -27,14 +27,15 @@ Shader "Custom/CameraViewSurface"
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
-            float4 col = tex2D(_MainTex, IN.uv_MainTex);
+            fixed4 col = tex2D(_MainTex, IN.uv_MainTex);
 
+            // Base surface
             o.Albedo = col.rgb;
-            o.Smoothness = 0.0;
             o.Metallic = 0.0;
+            o.Smoothness = 0.0;
 
-            // Apply emission
-            o.Emission = _EmissionColor.rgb * _EmissionStrength;
+            // Emission uses the texture
+            o.Emission = col.rgb * _EmissionColor.rgb * _EmissionStrength;
         }
         ENDCG
     }
