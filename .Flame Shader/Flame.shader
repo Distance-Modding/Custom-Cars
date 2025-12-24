@@ -1,5 +1,5 @@
-Shader "Custom/Flame" {
-	Properties {
+Shader "Custom/Flame_AlphaSharp" {
+    Properties {
         _Flame1 ("Flame 1", 2D) = "white" {}
         _Flame2 ("Flame 2", 2D) = "white" {}
         _Flame3 ("Flame 3", 2D) = "white" {}
@@ -9,40 +9,34 @@ Shader "Custom/Flame" {
         _Speed ("Animation Speed", Float) = 1.0
         _Loop ("Loop Duration", Float) = 6.0
         _Color ("Flame Color", Color) = (1, 1, 1, 1)
+        _Intensity ("Flame Intensity", Float) = 1.0
     }
+
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags { "Queue"="Transparent+1" "RenderType"="Transparent" }
 
         Pass
         {
-            // Enable transparency and render both sides of the trail
+            // Standard alpha blending for crisp, non-emissive flames
             Blend SrcAlpha OneMinusSrcAlpha
             ZWrite Off
-            Cull Off // Disable backface culling to render both sides
+            ZTest LEqual
+            Cull Off
 
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
             #include "UnityCG.cginc"
 
-            // Texture for each flame frame
             sampler2D _Flame1, _Flame2, _Flame3, _Flame4, _Flame5, _Flame6;
             float _Speed;
             float _Loop;
             float4 _Color;
+            float _Intensity;
 
-            struct appdata
-            {
-                float4 vertex : POSITION;
-                float2 uv : TEXCOORD0;
-            };
-
-            struct v2f
-            {
-                float4 pos : POSITION;
-                float2 uv : TEXCOORD0;
-            };
+            struct appdata { float4 vertex : POSITION; float2 uv : TEXCOORD0; };
+            struct v2f { float4 pos : SV_POSITION; float2 uv : TEXCOORD0; };
 
             v2f vert(appdata v)
             {
@@ -52,14 +46,12 @@ Shader "Custom/Flame" {
                 return o;
             }
 
-            half4 frag(v2f i) : COLOR
+            half4 frag(v2f i) : SV_Target
             {
-                // Calculate the time-based animation index
                 float time = _Time.y * _Speed;
-                float index = fmod(time, _Loop); // This loops between 0 and _Loop (6 frames)
+                float index = fmod(time, _Loop);
 
-                // Use the calculated index to select one of the flame textures
-                half4 col = half4(0, 0, 0, 0);
+                half4 col;
                 if (index < 1.0) col = tex2D(_Flame1, i.uv);
                 else if (index < 2.0) col = tex2D(_Flame2, i.uv);
                 else if (index < 3.0) col = tex2D(_Flame3, i.uv);
@@ -67,11 +59,11 @@ Shader "Custom/Flame" {
                 else if (index < 5.0) col = tex2D(_Flame5, i.uv);
                 else col = tex2D(_Flame6, i.uv);
 
-                // Apply the color tint and handle transparency
-                col *= _Color;
+                // Apply color and intensity
+                col *= _Color * _Intensity;
 
-                // If the texture is fully transparent (alpha = 0), discard the fragment
-                if (col.a < 0.01) discard;
+                if (col.a < 0.01)
+                    discard;
 
                 return col;
             }
