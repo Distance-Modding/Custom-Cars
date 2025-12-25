@@ -23,4 +23,5 @@ mainly cars made for the holidays :) (and DAC Events)
   * Sunchipp's Rat-Rod
   * Shicane's Lexus IS-300
   * Dodge Challenger
+  * Deora II
 </details>
