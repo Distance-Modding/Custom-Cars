@@ -60,4 +60,4 @@ Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
 [Misc] AE86 ChoroQ was done by ΩPUS
 
-Cerrano Racer was done by Tarles X
+Cerrano Racer & tg3000 was done by Tarles X
