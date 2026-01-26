@@ -4,7 +4,7 @@ Shader "Custom/CameraViewSurface"
     {
         _MainTex ("Camera RenderTexture", 2D) = "black" {}
         _EmissionColor ("Emission Tint", Color) = (1,1,1,1)
-        _EmissionStrength ("Emission Strength", Range(0,5)) = 1
+        _EmissionStrength ("Brightness", Range(0.1, 5)) = 1
     }
 
     SubShader
@@ -29,16 +29,20 @@ Shader "Custom/CameraViewSurface"
         {
             fixed4 col = tex2D(_MainTex, IN.uv_MainTex);
 
-            // Base surface
-            o.Albedo = col.rgb;
+            // Exposure-style brightness (prevents white blowout)
+            float brightness = _EmissionStrength;
+            col.rgb = 1.0 - exp(-col.rgb * brightness);
+
+            // Screen-like surface (not affected by scene lighting)
+            o.Albedo = 0;
             o.Metallic = 0.0;
             o.Smoothness = 0.0;
 
-            // Emission uses the texture
-            o.Emission = col.rgb * _EmissionColor.rgb * _EmissionStrength;
+            // Emission comes from the camera texture
+            o.Emission = col.rgb * _EmissionColor.rgb;
         }
         ENDCG
     }
 
-    FallBack "Diffuse"
+    FallBack "Standard"
 }
