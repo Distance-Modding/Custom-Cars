@@ -18,4 +18,5 @@ Why drive when you can race on foot!?!? It won't hurt right?
   * 3D Gamemaker Mech
   * Dweeb
   * Dweeb Classic
+  * Spyro
 </details>
