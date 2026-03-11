@@ -13,3 +13,4 @@ It is also important to not rename the file otherwise the script will get messed
   * Emission Pulse Shader - attach this shader to a material to allow a pulsing emission effect with speed adjustments
   * Transparent Emission - Used mostly for Trail Renders to give off a transparent light effect
   * Sprite Emission Shader - Helps with Sprite Trail Renders
+  * Boost Flame Trail - A Trail Render Shader that allows Sprites to act like a flame
