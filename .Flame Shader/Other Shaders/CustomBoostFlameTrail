@@ -1,0 +1,73 @@
+Shader "Custom/BoostFlameTrail"
+{
+    Properties
+    {
+        _MainTex ("Sprite Texture", 2D) = "white" {}
+        _Color ("Tint", Color) = (1,1,1,1)
+        _EmissionColor ("Emission Color", Color) = (1,1,1,1)
+        _EmissionMap ("Emission Map", 2D) = "white" {}
+        _OffsetH ("Horizontal Offset", Range(0,1)) = 0
+        _UVScaleX ("Horizontal Stretch", Range(0.1,10)) = 1
+        _WiggleAmount ("UV Wiggle Amount", Range(0,0.1)) = 0.02
+        _WiggleSpeed ("UV Wiggle Speed", Range(0,10)) = 2
+    }
+    SubShader
+    {
+        Tags { "Queue"="Transparent" "RenderType"="Transparent" }
+        LOD 200
+
+        CGPROGRAM
+        #pragma surface surf Standard fullforwardshadows alpha:fade
+
+        sampler2D _MainTex;
+        fixed4 _Color;
+        sampler2D _EmissionMap;
+        fixed4 _EmissionColor;
+
+        float _OffsetH;
+        float _UVScaleX;
+        float _WiggleAmount;
+        float _WiggleSpeed;
+
+        struct Input
+        {
+            float2 uv_MainTex;
+            float2 uv_EmissionMap;
+        };
+
+        void surf (Input IN, inout SurfaceOutputStandard o)
+        {
+            // --- Base horizontal stretch + offset ---
+            float2 mainUV = IN.uv_MainTex;
+            mainUV.x = (mainUV.x - 0.5) / _UVScaleX + 0.5;
+            mainUV.x += _OffsetH;
+
+            float2 emissionUV = IN.uv_EmissionMap;
+            emissionUV.x = (emissionUV.x - 0.5) / _UVScaleX + 0.5;
+            emissionUV.x += _OffsetH;
+
+            // --- Add tip-strong UV wiggle ---
+            // Scale wiggle by vertical UV so bottom barely moves, tip wiggles fully
+            float tipFactor = mainUV.y; // 0 at base, 1 at tip
+            float wiggle = sin(mainUV.y * 20 + _Time.y * _WiggleSpeed) * _WiggleAmount * tipFactor;
+            mainUV.x += wiggle;
+            emissionUV.x += wiggle;
+
+            // Smooth alpha at start/end
+            float alphaMask = smoothstep(0.0, 0.05, mainUV.x) * smoothstep(1.0, 0.95, mainUV.x);
+
+            // Sample main texture
+            fixed4 c = tex2D(_MainTex, mainUV) * _Color;
+            c.a *= alphaMask;
+            o.Albedo = c.rgb;
+            o.Alpha = c.a;
+
+            // Sample emission texture
+            fixed4 e = tex2D(_EmissionMap, emissionUV) * _EmissionColor;
+            e.a *= alphaMask;
+            o.Emission = e.rgb;
+        }
+        ENDCG
+    }
+    FallBack "Transparent/Diffuse"
+}
