@@ -30,4 +30,5 @@ Karts were Ported by CrazyGamer742 and Sunchipp
   <summary>Season 2</summary>
   
   * Kirby
+  * Freddy Fazbear
 </details>
