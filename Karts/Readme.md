@@ -26,3 +26,8 @@ Karts were Ported by CrazyGamer742 and Sunchipp
   * CrazyGamer
   * Sasquatch
 </details>
+<details>
+  <summary>Season 2</summary>
+  
+  * Kirby
+</details>
