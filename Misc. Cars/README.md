@@ -54,6 +54,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * Eagle 5
   * Sophia IV
   * Putt Putt
+  * Opressor Mk2
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
