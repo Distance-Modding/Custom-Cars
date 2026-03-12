@@ -24,7 +24,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * mk_lair
   * mk_sunchipp
   * sophia iii (Updated Custom Jets V2)
-  * sophia zero (updated scale)
+  * sophia zero (updated scale), (2026 Boost Jet Trails)
   * metal attacker (Updated Custom Jets V2)
   * Gaia-SOPHIA (Updated Scale)
   * Gaia-SOPHIA SV (Updated Scale)
