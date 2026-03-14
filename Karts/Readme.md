@@ -32,4 +32,5 @@ Karts were Ported by CrazyGamer742 and Sunchipp
   * Kirby
   * Freddy Fazbear
   * Rayman
+  * Slap T. Pooch
 </details>
