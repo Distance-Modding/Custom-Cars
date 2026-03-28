@@ -26,6 +26,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Turbo Flame <br>
   * [Misc] Twin Dorado <br>
   * [Misc] Video Racer <br>
+  * [Misc] Dragster <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
