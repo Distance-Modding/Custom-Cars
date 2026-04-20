@@ -34,4 +34,5 @@ Karts were Ported by CrazyGamer742 and Sunchipp
   * Rayman
   * Slap T. Pooch
   * Burger King
+  * Waluigi
 </details>
