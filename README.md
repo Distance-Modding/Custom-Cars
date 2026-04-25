@@ -65,4 +65,8 @@ If you're experiencing low fps whenever the Interceptor car opens its wings, try
 
 If you're having issues with a specific car tell us about on the [Issues](https://github.com/Distance-Modding/Custom-Cars/issues) page. Select the `New Issues` button and then select the `Get Started` button for Report Bug.
 
-For any other issues head over to the [Distance Discord](https://discord.gg/distance) and go to the #plugins channel. You may find some help there.
+## Contacts
+These cars were made with the combined effort of many people, below will be links to find creators involved: <br>
+- [Distance Discord](https://discord.gg/distance) (Custom Car discussion should be in the #plugins channel
+- [Distance Stoat](https://stt.gg/Cap89Fem) (Custom Car discussion is in the #Custom Cars channel
+- [Chic-Haven Rush Garage](https://chic-haven-rush.xyz/) (Sunchipp's website. Accepts commissions for Custom Cars. [If you're interested, check this video](https://www.youtube.com/watch?v=M92ctRUU-ag) [Check the Contacts page for comission info](https://chic-haven-rush.xyz/contact.html))
