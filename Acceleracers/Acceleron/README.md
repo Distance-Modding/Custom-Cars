@@ -13,3 +13,5 @@ Acceleron Alien - Sunchipp
 Realm Cars Ported by Sunchipp
 
 Glaciate - Maus & Sunchipp
+
+x-cceleron - Zamblar (Model made with GenAI)
