@@ -69,5 +69,5 @@ If you're having issues with a specific car tell us about on the [Issues](https:
 These cars were made with the combined effort of many people, below will be links to find creators involved: <br>
 - [Distance Discord](https://discord.gg/distance) (Custom Car discussion should be in the #plugins channel)
 - [Distance Stoat](https://stt.gg/Cap89Fem) (Custom Car discussion is in the #Custom Cars channel)
-- [ΩPUS Discord](​https://discord.gg/qchmjubnRs) (Most Hot Wheels related custom car creators are in this server Check the #custom-cars channel)
+- Omega's Discord: ​https://discord.gg/qchmjubnRs (Most Hot Wheels related custom car creators are in this server Check the #custom-cars channel)
 - [Chic-Haven Rush Garage](https://chic-haven-rush.xyz/) (Sunchipp's website. Accepts commissions for Custom Cars. [If you're interested, check this video](https://www.youtube.com/watch?v=M92ctRUU-ag) [Check the Contacts page for comission info](https://chic-haven-rush.xyz/contact.html))
