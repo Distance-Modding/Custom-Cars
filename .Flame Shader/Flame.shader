@@ -1,13 +1,19 @@
-Shader "Custom/Flame_AlphaSharp" {
-    Properties {
+Shader "Custom/Flame_AlphaSharp"
+{
+    Properties
+    {
         _Flame1 ("Flame 1", 2D) = "white" {}
         _Flame2 ("Flame 2", 2D) = "white" {}
         _Flame3 ("Flame 3", 2D) = "white" {}
         _Flame4 ("Flame 4", 2D) = "white" {}
         _Flame5 ("Flame 5", 2D) = "white" {}
         _Flame6 ("Flame 6", 2D) = "white" {}
+        _Flame7 ("Flame 7", 2D) = "white" {}
+        _Flame8 ("Flame 8", 2D) = "white" {}
+
         _Speed ("Animation Speed", Float) = 1.0
-        _Loop ("Loop Duration", Float) = 6.0
+        _Loop ("Loop Duration", Float) = 8.0
+
         _Color ("Flame Color", Color) = (1, 1, 1, 1)
         _Intensity ("Flame Intensity", Float) = 1.0
     }
@@ -18,7 +24,6 @@ Shader "Custom/Flame_AlphaSharp" {
 
         Pass
         {
-            // Standard alpha blending for crisp, non-emissive flames
             Blend SrcAlpha OneMinusSrcAlpha
             ZWrite Off
             ZTest LEqual
@@ -29,7 +34,8 @@ Shader "Custom/Flame_AlphaSharp" {
             #pragma fragment frag
             #include "UnityCG.cginc"
 
-            sampler2D _Flame1, _Flame2, _Flame3, _Flame4, _Flame5, _Flame6;
+            sampler2D _Flame1, _Flame2, _Flame3, _Flame4, _Flame5, _Flame6, _Flame7, _Flame8;
+
             float _Speed;
             float _Loop;
             float4 _Color;
@@ -52,14 +58,16 @@ Shader "Custom/Flame_AlphaSharp" {
                 float index = fmod(time, _Loop);
 
                 half4 col;
+
                 if (index < 1.0) col = tex2D(_Flame1, i.uv);
                 else if (index < 2.0) col = tex2D(_Flame2, i.uv);
                 else if (index < 3.0) col = tex2D(_Flame3, i.uv);
                 else if (index < 4.0) col = tex2D(_Flame4, i.uv);
                 else if (index < 5.0) col = tex2D(_Flame5, i.uv);
-                else col = tex2D(_Flame6, i.uv);
+                else if (index < 6.0) col = tex2D(_Flame6, i.uv);
+                else if (index < 7.0) col = tex2D(_Flame7, i.uv);
+                else col = tex2D(_Flame8, i.uv);
 
-                // Apply color and intensity
                 col *= _Color * _Intensity;
 
                 if (col.a < 0.01)
