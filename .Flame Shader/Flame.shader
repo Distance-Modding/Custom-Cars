@@ -12,7 +12,9 @@ Shader "Custom/Flame_AlphaSharp"
         _Flame8 ("Flame 8", 2D) = "white" {}
 
         _Speed ("Animation Speed", Float) = 1.0
-        _Loop ("Loop Duration", Float) = 8.0
+        _Loop ("Loop Duration (unused but kept)", Float) = 8.0
+
+        _FrameCount ("Active Frames", Range(1, 8)) = 8
 
         _Color ("Flame Color", Color) = (1, 1, 1, 1)
         _Intensity ("Flame Intensity", Float) = 1.0
@@ -34,15 +36,26 @@ Shader "Custom/Flame_AlphaSharp"
             #pragma fragment frag
             #include "UnityCG.cginc"
 
-            sampler2D _Flame1, _Flame2, _Flame3, _Flame4, _Flame5, _Flame6, _Flame7, _Flame8;
+            sampler2D _Flame1, _Flame2, _Flame3, _Flame4;
+            sampler2D _Flame5, _Flame6, _Flame7, _Flame8;
 
             float _Speed;
             float _Loop;
             float4 _Color;
             float _Intensity;
+            float _FrameCount;
 
-            struct appdata { float4 vertex : POSITION; float2 uv : TEXCOORD0; };
-            struct v2f { float4 pos : SV_POSITION; float2 uv : TEXCOORD0; };
+            struct appdata
+            {
+                float4 vertex : POSITION;
+                float2 uv : TEXCOORD0;
+            };
+
+            struct v2f
+            {
+                float4 pos : SV_POSITION;
+                float2 uv : TEXCOORD0;
+            };
 
             v2f vert(appdata v)
             {
@@ -52,21 +65,35 @@ Shader "Custom/Flame_AlphaSharp"
                 return o;
             }
 
+            half4 SampleFrame(int idx, float2 uv)
+            {
+                if (idx == 0) return tex2D(_Flame1, uv);
+                if (idx == 1) return tex2D(_Flame2, uv);
+                if (idx == 2) return tex2D(_Flame3, uv);
+                if (idx == 3) return tex2D(_Flame4, uv);
+                if (idx == 4) return tex2D(_Flame5, uv);
+                if (idx == 5) return tex2D(_Flame6, uv);
+                if (idx == 6) return tex2D(_Flame7, uv);
+                return tex2D(_Flame8, uv);
+            }
+
             half4 frag(v2f i) : SV_Target
             {
+                float frames = max(1.0, floor(_FrameCount));
+
                 float time = _Time.y * _Speed;
-                float index = fmod(time, _Loop);
 
-                half4 col;
+                // loop only across active frames
+                float animTime = fmod(time, frames);
 
-                if (index < 1.0) col = tex2D(_Flame1, i.uv);
-                else if (index < 2.0) col = tex2D(_Flame2, i.uv);
-                else if (index < 3.0) col = tex2D(_Flame3, i.uv);
-                else if (index < 4.0) col = tex2D(_Flame4, i.uv);
-                else if (index < 5.0) col = tex2D(_Flame5, i.uv);
-                else if (index < 6.0) col = tex2D(_Flame6, i.uv);
-                else if (index < 7.0) col = tex2D(_Flame7, i.uv);
-                else col = tex2D(_Flame8, i.uv);
+                float frameIndex = floor(animTime);
+                float nextFrame = min(frameIndex + 1.0, frames - 1.0);
+                float t = frac(animTime);
+
+                half4 col1 = SampleFrame((int)frameIndex, i.uv);
+                half4 col2 = SampleFrame((int)nextFrame, i.uv);
+
+                half4 col = lerp(col1, col2, t);
 
                 col *= _Color * _Intensity;
 
@@ -75,6 +102,7 @@ Shader "Custom/Flame_AlphaSharp"
 
                 return col;
             }
+
             ENDCG
         }
     }
