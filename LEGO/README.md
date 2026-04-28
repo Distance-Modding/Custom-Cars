@@ -49,6 +49,7 @@ LEGO related cars
   * Stealth Roadster (Drome Racers)
   * Raptor Stunt (Drome Racers)
   * Sam Sinister LR2
+  * Cassiopeia [Life on Mars)
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
