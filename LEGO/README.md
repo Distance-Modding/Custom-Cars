@@ -50,6 +50,7 @@ LEGO related cars
   * Raptor Stunt (Drome Racers)
   * Sam Sinister LR2
   * Cassiopeia [Life on Mars)
+  * Purple Hover Craft [Life on Mars]
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
