@@ -47,6 +47,7 @@
   * 2005 Lexus IS 300 (Princess Robot Bubblegum Livery)
   * McMurtry Spéirling
   * Wienermobile
+  * Peterbilt 379
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
