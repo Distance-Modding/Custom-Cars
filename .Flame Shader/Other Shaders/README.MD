@@ -14,3 +14,4 @@ It is also important to not rename the file otherwise the script will get messed
   * Transparent Emission - Used mostly for Trail Renders to give off a transparent light effect
   * Sprite Emission Shader - Helps with Sprite Trail Renders
   * Boost Flame Trail - A Trail Render Shader that allows Sprites to act like a flame
+  * Custom Flag Effect - Turns the trail into a flag, adjustable if you don't want the flag animation. Kinda buggy, video coming soon
