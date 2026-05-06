@@ -48,6 +48,7 @@
   * McMurtry Spéirling
   * Wienermobile
   * Peterbilt 379
+  * Baja Buggy
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
