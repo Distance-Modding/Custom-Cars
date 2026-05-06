@@ -1,4 +1,4 @@
-Shader "StandardFlagEffect_FixedClean"
+Shader "StandardFlagEffect_FixedClean_v2"
 {
     Properties
     {
@@ -24,7 +24,8 @@ Shader "StandardFlagEffect_FixedClean"
     {
         Tags { "Queue"="Transparent" "RenderType"="Transparent" }
 
-        Blend SrcAlpha OneMinusSrcAlpha
+        // ✅ Premultiplied alpha (more stable in Unity 5.x)
+        Blend One OneMinusSrcAlpha
         ZWrite Off
         Cull Off
 
@@ -54,48 +55,56 @@ Shader "StandardFlagEffect_FixedClean"
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
-            // 🔥 NEW: kill stretched/broken trail triangles
-            float2 dx = ddx(IN.uv_MainTex);
-            float2 dy = ddy(IN.uv_MainTex);
-            float stretchAmount = max(length(dx), length(dy));
+            float2 uv = IN.uv_MainTex;
 
-            // threshold tweakable if needed
+            // ✅ Kill broken / stretched triangles
+            float2 dx = ddx(uv);
+            float2 dy = ddy(uv);
+            float stretchAmount = max(length(dx), length(dy));
             if (stretchAmount > 0.5)
             {
                 clip(-1);
             }
 
-            float2 uv = IN.uv_MainTex;
-
             float t = uv.x;
 
-            float stretch = _UVStretch;
-            stretch = (abs(stretch) < 0.01) ? 0.01 : stretch;
-
+            // ✅ Safe stretch (no divide-by-zero, preserves sign)
+            float stretch = max(abs(_UVStretch), 0.01) * sign(_UVStretch);
             uv.x = (uv.x + _UVPosition) / stretch;
 
-            float wave = sin(_Time.y * _WaveSpeed + IN.uv_MainTex.x * 12.0);
-            float waveStrength = pow(_WaveAmount, 1.2);
-
+            // ✅ Wave
+            float wave = sin(_Time.y * _WaveSpeed + uv.x * 12.0);
+            float waveStrength = _WaveAmount;
             uv.y += wave * waveStrength * t;
 
-            float2 sampleUV = saturate(uv);
+            // ✅ HARD CLIP UVs (prevents black edge sampling)
+            clip(uv.x);
+            clip(1.0 - uv.x);
+            clip(uv.y);
+            clip(1.0 - uv.y);
 
-            fixed4 tex = tex2D(_MainTex, sampleUV);
+            fixed4 tex = tex2D(_MainTex, uv);
 
+            // ✅ Fade shaping
             float pull = pow(1.0 - t, _EdgeSharpness) * _PullStrength;
             float finalFade = pull * _Fade;
 
             float alpha = tex.a * _Color.a * finalFade;
 
-            clip(alpha - 0.02);
+            // Soft threshold instead of harsh clip
+            alpha = smoothstep(0.02, 0.05, alpha);
 
-            float3 col = tex.rgb * _Color.rgb * finalFade;
+            // ✅ DO NOT multiply color by fade (prevents black trail)
+            float3 col = tex.rgb * _Color.rgb;
+
+            // ✅ Premultiply for stable blending
+            col *= alpha;
 
             o.Albedo = col;
             o.Alpha = alpha;
 
-            o.Emission = col * _EmissionColor.rgb * _EmissionStrength * alpha;
+            // ✅ Stable emission (not killed by alpha)
+            o.Emission = tex.rgb * _EmissionColor.rgb * _EmissionStrength * finalFade;
 
             o.Metallic = 0;
             o.Smoothness = 0;
