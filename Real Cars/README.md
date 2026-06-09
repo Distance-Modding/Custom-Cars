@@ -49,6 +49,7 @@
   * Wienermobile
   * Peterbilt 379
   * Baja Buggy
+  * 2025 Honda Civic R Type (Stellarsama Livery)
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
