@@ -19,4 +19,4 @@ Remember, Custom Shaders only work with the donotreplace material
   * Custom Flag Effect - Turns the trail into a flag, adjustable if you don't want the flag animation. Kinda buggy, video coming soon
   * Tread Motion - A Standard Surface Shader that allows cars to have functional Tank Treads
   * Window Shader - Adds a realistic reflection shader if your car does not have an interior equipped with an RGB System for different tint color
-  * Transparent Emission - Allows materials to be transparent but still have an emission
+  * Transparent Emission - Allows materials to be transparent but still have an emission (easier version of TransparentGlow)
