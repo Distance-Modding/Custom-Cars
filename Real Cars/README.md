@@ -50,6 +50,10 @@
   * Peterbilt 379
   * Baja Buggy
   * 2025 Honda Civic R Type (Stellarsama Livery)
+  * Katzu's 1999 Nissan Silvia S15
+  * Sever's 2003 Mazda RX-8
+  * Ransak's 1968 Ford Mustang
+  * Axel's 2006 Subaru Impreza WRX STI
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
