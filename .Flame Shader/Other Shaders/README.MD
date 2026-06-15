@@ -5,6 +5,8 @@ key thing to keep in mind, these shaders need the donotreplace material in order
 
 It is also important to not rename the file otherwise the script will get messed up
 
+Remember, Custom Shaders only work with the donotreplace material
+
 <details>
   
   <summary>Shaders</summary>
