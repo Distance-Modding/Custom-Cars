@@ -16,3 +16,4 @@ It is also important to not rename the file otherwise the script will get messed
   * Boost Flame Trail - A Trail Render Shader that allows Sprites to act like a flame
   * Custom Flag Effect - Turns the trail into a flag, adjustable if you don't want the flag animation. Kinda buggy, video coming soon
   * Tread Motion - A Standard Surface Shader that allows cars to have functional Tank Treads
+  * Window Shader - Adds a realistic reflection shader if your car does not have an interior equipped with an RGB System for different tint color
