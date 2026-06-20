@@ -54,6 +54,7 @@
   * Sever's 2003 Mazda RX-8
   * Ransak's 1968 Ford Mustang
   * Axel's 2006 Subaru Impreza WRX STI
+  * Sarah's Range Rover Classic
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
