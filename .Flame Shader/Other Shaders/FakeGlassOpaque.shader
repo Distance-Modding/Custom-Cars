@@ -3,9 +3,9 @@ Shader "Custom/FakeGlassOpaque"
     Properties
     {
         _Tint ("Glass Tint (RGB)", Color) = (0.6, 0.8, 1.0, 1)
-        _TintStrength ("Tint Strength", Range(0,2)) = 1.0
 
-        _Smoothness ("Smoothness", Range(0,1)) = 1.0
+        _TintStrength ("Tint Strength", Range(0,2)) = 1.0
+        _Smoothness ("Smoothness", Range(0,1)) = 0.95
 
         _FresnelPower ("Fresnel Power", Range(1,10)) = 4
         _FresnelStrength ("Fresnel Strength", Range(0,5)) = 2
@@ -25,38 +25,48 @@ Shader "Custom/FakeGlassOpaque"
         struct Input
         {
             float3 viewDir;
+            float3 worldNormal;
+            INTERNAL_DATA
         };
 
         fixed4 _Tint;
-        half _Smoothness;
-        float _TintStrength;
 
-        float _FresnelPower;
-        float _FresnelStrength;
-        float _BaseDarkness;
-        float _Glow;
+        half _Smoothness;
+        half _TintStrength;
+
+        half _FresnelPower;
+        half _FresnelStrength;
+
+        half _BaseDarkness;
+        half _Glow;
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
             float3 V = normalize(IN.viewDir);
-            float3 N = normalize(o.Normal);
+            float3 N = normalize(IN.worldNormal);
 
             float fresnel =
-                pow(1.0 - saturate(dot(V, N)), _FresnelPower);
+                pow(
+                    1.0 - saturate(dot(V, N)),
+                    _FresnelPower
+                );
 
-            float edgeBoost =
-                lerp(1.0, 1.0 + _FresnelStrength, fresnel);
+            // Dark diffuse base
+            o.Albedo = _Tint.rgb * _BaseDarkness;
 
-            // very dark base (prevents "colored plastic window" look)
-            o.Albedo = _Tint.rgb * _BaseDarkness * edgeBoost;
-
-            o.Smoothness = _Smoothness;
             o.Metallic = 0.0;
+            o.Smoothness = _Smoothness;
+            o.Occlusion = 1.0;
 
-            // RGB tint shows mainly in reflections/glow, not base color
+            // Fresnel-driven edge glow
             o.Emission =
                 _Tint.rgb *
-                (_Glow + fresnel * _TintStrength);
+                (
+                    _Glow +
+                    fresnel *
+                    _TintStrength *
+                    _FresnelStrength
+                );
         }
         ENDCG
     }
