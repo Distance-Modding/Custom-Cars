@@ -28,6 +28,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Video Racer <br>
   * [Misc] Dragster <br>
   * [Misc] Hot Seat <br>
+  * [Misc] Radar Ranger (Turbo Charger Livery) <br>
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
