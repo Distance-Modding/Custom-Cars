@@ -29,6 +29,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Dragster <br>
   * [Misc] Hot Seat <br>
   * [Misc] Radar Ranger (Turbo Charger Livery) <br>
+  * [Misc] Tow Jam (Chic-Haven Rush Livery)
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
