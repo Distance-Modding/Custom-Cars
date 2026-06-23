@@ -55,6 +55,9 @@
   * Ransak's 1968 Ford Mustang
   * Axel's 2006 Subaru Impreza WRX STI
   * Sarah's Range Rover Classic
+  * BMW 2002 TII (Cолнце-chipp)
+  * Kei Truck
+  * 1980s Subaru Brat
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
