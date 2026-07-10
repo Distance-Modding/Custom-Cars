@@ -56,6 +56,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * Putt Putt
   * Opressor Mk2
   * Space Docker
+  * The Liberator (Non Monster Truck Mode)
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
