@@ -21,3 +21,4 @@ Remember, Custom Shaders only work with the donotreplace material
   * Window Shader - Adds a realistic reflection shader if your car does not have an interior equipped with an RGB System for different tint color
   * TransparentEmissionStandard - Allows materials to be transparent but still have an emission (easier version of TransparentGlow)
   * Window Shader Distance - Same as the other window shader but supports the color changer options in the car customization
+  * Animated Jet Trail - Another type of Trail that is mostly used for wings! This trail will allow you to have more than one color (Made for an Independence Day Special)
