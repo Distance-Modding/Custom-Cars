@@ -58,6 +58,7 @@
   * BMW 2002 TII (Cолнце-chipp)
   * Kei Truck
   * 1980s Subaru Brat
+  * Dodge Viper (Patriotic Livery)
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
