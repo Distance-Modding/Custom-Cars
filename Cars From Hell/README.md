@@ -28,3 +28,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Night Shifter
   * RD-06
   * Velzarion
+  * Albany Fränken Stange
