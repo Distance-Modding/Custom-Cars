@@ -12,6 +12,7 @@ WARNING: Some of these cars have only been updated for the Thunderstore and will
   * 1982 Foxbody Mustang
   * Prism
   * Ford Explorer
+  * 1963 Beetle
 </details>
 <details>
 <summary>Tarles Black X's Cars</summary>
