@@ -29,3 +29,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * RD-06
   * Velzarion
   * Albany Fränken Stange
+  * Horace
