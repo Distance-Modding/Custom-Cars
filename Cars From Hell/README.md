@@ -30,3 +30,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Velzarion
   * Albany Fränken Stange
   * Horace
+  * Albany Lurcher
