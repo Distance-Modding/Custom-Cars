@@ -31,3 +31,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Albany Fränken Stange
   * Horace
   * Albany Lurcher
+  * Ecto 1
