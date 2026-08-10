@@ -13,6 +13,7 @@ WARNING: Some of these cars have only been updated for the Thunderstore and will
   * Prism
   * Ford Explorer
   * 1963 Beetle
+  * Twin Mill
 </details>
 <details>
 <summary>Tarles Black X's Cars</summary>
