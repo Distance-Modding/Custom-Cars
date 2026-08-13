@@ -23,3 +23,4 @@ Remember, Custom Shaders only work with the donotreplace material
   * Window Shader Distance - Same as the other window shader but supports the color changer options in the car customization
   * Animated Jet Trail - Another type of Trail that is mostly used for wings! This trail will allow you to have more than one color (Made for an Independence Day Special)
   * Ghost Shader - With a little fog and white noise you can now make any mesh look like a ghost! The stronger the Noise the better the effect
+  * Window Shader 3 - Exact same as Window Shader Distance but supports transparency
