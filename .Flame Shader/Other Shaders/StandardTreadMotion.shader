@@ -3,7 +3,7 @@ Shader "Custom/StandardTreadMotion"
     Properties
     {
         _Color ("Color", Color) = (1,1,1,1)
-        _MainTex ("Albedo", 2D) = "white" {}
+        _MainTex ("Albedo (RGB) Alpha (A)", 2D) = "white" {}
 
         _TreadSpeed ("Tread Speed", Float) = 1.0
         _TreadDirection ("Tread Direction", Float) = 1.0
@@ -11,22 +11,29 @@ Shader "Custom/StandardTreadMotion"
         _UScale ("U Scale", Float) = 1.0
         _VScale ("V Scale", Float) = 1.0
 
+        _Cutoff ("Alpha Cutoff", Range(0,1)) = 0.5
+
         _Metallic ("Metallic", Range(0,1)) = 0.0
         _Glossiness ("Smoothness", Range(0,1)) = 0.5
     }
 
     SubShader
     {
-        Tags { "RenderType"="Opaque" }
+        Tags
+        {
+            "RenderType"="TransparentCutout"
+        }
+
         LOD 200
 
         CGPROGRAM
 
-        #pragma surface surf Standard fullforwardshadows
+        #pragma surface surf Standard fullforwardshadows alphatest:_Cutoff
 
         sampler2D _MainTex;
 
         fixed4 _Color;
+
         half _Metallic;
         half _Glossiness;
 
@@ -38,37 +45,40 @@ Shader "Custom/StandardTreadMotion"
 
         struct Input
         {
-            float3 worldPos;
             float2 uv_MainTex;
         };
 
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
             /*
-             * IMPORTANT:
+             * Start with the ORIGINAL UV coordinates
+             * from the tread mesh.
              *
-             * We use the mesh's original UV coordinates.
-             * We do NOT generate UVs from each vertex's world position.
-             *
-             * This prevents the stretching/distortion that happens
-             * on the curved sections of a continuous tank track.
+             * We do not calculate UVs from world position.
+             * This prevents stretching and distortion around
+             * the curved sections of the continuous tread.
              */
-
             float2 uv = IN.uv_MainTex;
 
             /*
-             * Scale the original UVs.
-             *
-             * This changes the size of the tread texture without
-             * changing the shape of the mesh's UV layout.
+             * Optional UV scaling.
              */
             uv.x *= _UScale;
             uv.y *= _VScale;
 
             /*
-             * Calculate the tank's forward direction.
+             * Get the tank's world-space position.
+             */
+            float3 objectPosition = float3(
+                unity_ObjectToWorld._m03,
+                unity_ObjectToWorld._m13,
+                unity_ObjectToWorld._m23
+            );
+
+            /*
+             * Get the tank's forward direction.
              *
-             * Unity's forward direction is local +Z.
+             * Unity local +Z is forward.
              */
             float3 forward =
                 normalize(
@@ -79,34 +89,17 @@ Shader "Custom/StandardTreadMotion"
                 );
 
             /*
-             * Get the tank object's world position.
-             *
-             * Unlike IN.worldPos, this is the SAME for every vertex.
-             *
-             * This is the important difference:
-             *
-             * OLD:
-             *     every vertex got a different texture coordinate
-             *
-             * NEW:
-             *     the entire tread gets one uniform texture offset
+             * Determine the tank's position along
+             * its forward axis.
              */
-            float3 objectPosition = float3(
-                unity_ObjectToWorld._m03,
-                unity_ObjectToWorld._m13,
-                unity_ObjectToWorld._m23
-            );
+            float movementPosition =
+                dot(objectPosition, forward);
 
             /*
-             * Determine where the tank is along its forward axis.
-             */
-            float movementPosition = dot(objectPosition, forward);
-
-            /*
-             * Convert the tank's position into a texture offset.
+             * Convert movement into a texture offset.
              *
-             * The negative sign makes the tread appear to travel
-             * underneath the vehicle when the vehicle moves forward.
+             * Negative makes the tread appear to travel
+             * underneath the tank when moving forward.
              */
             float treadOffset =
                 -movementPosition *
@@ -114,17 +107,26 @@ Shader "Custom/StandardTreadMotion"
                 _TreadDirection;
 
             /*
-             * Apply the movement to the ORIGINAL UV.
-             *
-             * frac() keeps the UV inside the 0-1 range while still
-             * allowing the texture to repeat.
+             * Move the tread texture without changing
+             * the original UV layout.
              */
             uv.x += treadOffset;
 
             /*
-             * Sample the tread texture.
+             * Sample the texture.
              */
             fixed4 c = tex2D(_MainTex, uv) * _Color;
+
+            /*
+             * Alpha is handled by:
+             *
+             * #pragma surface ... alphatest:_Cutoff
+             *
+             * Pixels below the cutoff are discarded.
+             *
+             * This prevents the RGB information inside
+             * transparent parts of the texture from showing.
+             */
 
             o.Albedo = c.rgb;
             o.Metallic = _Metallic;
@@ -135,5 +137,5 @@ Shader "Custom/StandardTreadMotion"
         ENDCG
     }
 
-    FallBack "Standard"
+    FallBack "Transparent/Cutout/VertexLit"
 }
