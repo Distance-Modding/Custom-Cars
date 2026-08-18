@@ -43,7 +43,7 @@ Corruptor by Backgrounds' & [Nico](https://github.com/larnin/CustomCar/)
 * [SSA] Jen's Speeder (remodeled)
 * [SSA] Blixem
 * Stealth Shock (Eastside Midnight Rush Promotion) (Rotation Thrusters Added)
-* Hyper Driller (2025 Model)
+* Hyper Driller (Fixed 2025 Model) (New Wheels and Treads)
 * Sunchipp's Rat-Rod Birthday Livery
 * Kairos (First Custom Car With Animated Wheels)
 * Hellhorn
