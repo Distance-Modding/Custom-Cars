@@ -5,6 +5,12 @@ Shader "Custom/StandardTreadMotion"
         _Color ("Color", Color) = (1,1,1,1)
         _MainTex ("Albedo (RGB) Alpha (A)", 2D) = "white" {}
 
+        _NormalMap ("Normal Map", 2D) = "bump" {}
+        _NormalStrength ("Normal Strength", Range(0,2)) = 1.0
+
+        _HeightMap ("Height Map", 2D) = "black" {}
+        _HeightStrength ("Height Strength", Range(0,0.1)) = 0.02
+
         _TreadSpeed ("Tread Speed", Float) = 1.0
         _TreadDirection ("Tread Direction", Float) = 1.0
 
@@ -31,11 +37,16 @@ Shader "Custom/StandardTreadMotion"
         #pragma surface surf Standard fullforwardshadows alphatest:_Cutoff
 
         sampler2D _MainTex;
+        sampler2D _NormalMap;
+        sampler2D _HeightMap;
 
         fixed4 _Color;
 
         half _Metallic;
         half _Glossiness;
+
+        float _NormalStrength;
+        float _HeightStrength;
 
         float _TreadSpeed;
         float _TreadDirection;
@@ -46,6 +57,13 @@ Shader "Custom/StandardTreadMotion"
         struct Input
         {
             float2 uv_MainTex;
+
+            /*
+             * Tangent-space view direction.
+             *
+             * Used by the height/parallax mapping.
+             */
+            float3 viewDir;
         };
 
         void surf (Input IN, inout SurfaceOutputStandard o)
@@ -53,10 +71,6 @@ Shader "Custom/StandardTreadMotion"
             /*
              * Start with the ORIGINAL UV coordinates
              * from the tread mesh.
-             *
-             * We do not calculate UVs from world position.
-             * This prevents stretching and distortion around
-             * the curved sections of the continuous tread.
              */
             float2 uv = IN.uv_MainTex;
 
@@ -112,21 +126,97 @@ Shader "Custom/StandardTreadMotion"
              */
             uv.x += treadOffset;
 
-            /*
-             * Sample the texture.
-             */
-            fixed4 c = tex2D(_MainTex, uv) * _Color;
+
+            // =========================================================
+            // HEIGHT / PARALLAX
+            // =========================================================
 
             /*
-             * Alpha is handled by:
+             * Sample the height map.
              *
-             * #pragma surface ... alphatest:_Cutoff
+             * The height map is expected to be:
              *
-             * Pixels below the cutoff are discarded.
-             *
-             * This prevents the RGB information inside
-             * transparent parts of the texture from showing.
+             * Black = low
+             * White = high
              */
+            float height = tex2D(_HeightMap, uv).r;
+
+            /*
+             * Convert the height into a signed offset.
+             *
+             * Centering around 0 means the height map can
+             * push the apparent surface both toward and
+             * away from the camera.
+             */
+            float heightOffset =
+                (height - 0.5) * _HeightStrength;
+
+            /*
+             * IN.viewDir is already in tangent space.
+             *
+             * Avoid division by extremely small Z values.
+             */
+            float viewZ = max(abs(IN.viewDir.z), 0.001);
+
+            /*
+             * Calculate a simple parallax offset.
+             *
+             * This changes where the texture is sampled,
+             * rather than physically moving the tread mesh.
+             */
+            float2 parallaxOffset =
+                (IN.viewDir.xy / viewZ) * heightOffset;
+
+            /*
+             * Apply height-map offset to the texture UV.
+             */
+            float2 finalUV = uv + parallaxOffset;
+
+
+            // =========================================================
+            // ALBEDO
+            // =========================================================
+
+            fixed4 c =
+                tex2D(_MainTex, finalUV) *
+                _Color;
+
+
+            // =========================================================
+            // NORMAL MAP
+            // =========================================================
+
+            /*
+             * Sample the normal map.
+             *
+             * UnpackNormal converts Unity's normal-map
+             * encoding into a tangent-space normal.
+             */
+            fixed3 normal =
+                UnpackNormal(tex2D(_NormalMap, finalUV));
+
+            /*
+             * Adjust normal strength.
+             *
+             * Reconstructing Z after scaling XY keeps
+             * the normal reasonably normalized.
+             */
+            normal.xy *= _NormalStrength;
+
+            normal.z =
+                sqrt(
+                    saturate(
+                        1.0 -
+                        dot(normal.xy, normal.xy)
+                    )
+                );
+
+            o.Normal = normal;
+
+
+            // =========================================================
+            // STANDARD MATERIAL
+            // =========================================================
 
             o.Albedo = c.rgb;
             o.Metallic = _Metallic;
