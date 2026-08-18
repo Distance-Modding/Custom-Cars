@@ -52,6 +52,7 @@ LEGO related cars
   * Cassiopeia [Life on Mars)
   * Purple Hover Craft [Life on Mars]
   * Ghost (minifigure) [First with Flag Shader]
+  * Dino Explorer [Adventurers]
 </details>
 
 More GAMEMASTER-THX LEGO cars can be found at his website below: <br>
