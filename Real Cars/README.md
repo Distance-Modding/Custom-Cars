@@ -59,6 +59,7 @@
   * Kei Truck
   * 1980s Subaru Brat
   * Dodge Viper (Patriotic Livery)
+  * Ripsaw
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
