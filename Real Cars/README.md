@@ -68,6 +68,7 @@
   * [Real] 2023 W14 Crazy
   * [Real] 2024 MCL-38
   * [Real] Ferrari SF-25
+  * [REAL] Ferrari SF-26
 </details>
 <details>
   <summary>ΩPUS Cars</summary>
