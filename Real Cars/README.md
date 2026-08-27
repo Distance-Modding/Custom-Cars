@@ -60,6 +60,7 @@
   * 1980s Subaru Brat
   * Dodge Viper (Patriotic Livery)
   * Ripsaw
+  * Chevy SS
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
