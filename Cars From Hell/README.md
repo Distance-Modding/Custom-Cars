@@ -33,3 +33,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Albany Lurcher
   * Ecto 1
   * Candy Corn
+  * Exanimis
