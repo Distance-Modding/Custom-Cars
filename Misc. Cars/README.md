@@ -59,6 +59,7 @@ San Fransisco Rush 2049, safari biathlon racer, GTAV, MXUnleashed, Choro-Q, Pok√
   * The Liberator (Non Monster Truck Mode)
   * Dune Buggy
   * Optimus Prime
+  * Ramp Buggy [GTA]
 </details>
 Lightning McQueen Series: CrazyGamer742 / CrazyGamer742 #6777
 
