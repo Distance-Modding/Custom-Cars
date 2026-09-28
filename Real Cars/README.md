@@ -32,7 +32,7 @@
   * The Red Baron [Plane]
   * 1970 Cadillac Hearse
   * Zenvo ST1
-  * Lexus-is300 (Eastside Midnight Rush Promotion) (Rescaled)
+  * Lexus-is300 (updated wheels)
   * 1956 Ford F100 Van
   * 1956 Ford F100 Van (LOST MC)
   * 1956 Ford F100 Van (Coca Cola)
@@ -40,7 +40,7 @@
   * 2007 Ford Crown Victoria Police Car
   * BMW M3 GTR (Updated with HD Textures and glass fix)
   * Hyundai N Vision 74 (Fixed Rear Wheels, Replaced Flight Mode)
-  * Nissan GTR (Eastside Midnight Rush Promotion)
+  * Nissan GTR (Scruff) (updated wheels and window material)
   * Aston Martin Vanquish (Eastside Midnight Rush Promotion)
   * Chevy Impala Nascar (Mountain Dew) (updated Boost Jets)
   * 82 Buick Regal (Mountain Dew) (Boost Jets updated)
