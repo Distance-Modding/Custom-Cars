@@ -34,3 +34,4 @@ Cars made to look like monsters or demons, One being from the Hazbin Hotel Serie
   * Ecto 1
   * Candy Corn
   * Exanimis
+  * Ghorren
