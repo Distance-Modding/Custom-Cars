@@ -31,6 +31,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Radar Ranger (Turbo Charger Livery) <br>
   * [Misc] Tow Jam (Chic-Haven Rush Livery)
   * [EMR] Rollcage
+  * [Misc] Bone Shaker Monster Truck (Not monster truck mode compatable)
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
