@@ -61,6 +61,7 @@
   * Dodge Viper (Patriotic Livery)
   * Ripsaw
   * Chevy SS
+  * VW Beetle (Chic-Haven Rush)
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
