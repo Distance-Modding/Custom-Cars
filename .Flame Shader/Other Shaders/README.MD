@@ -25,4 +25,3 @@ Remember, Custom Shaders only work with the donotreplace material
   * Ghost Shader - With a little fog and white noise you can now make any mesh look like a ghost! The stronger the Noise the better the effect
   * Window Shader 3 - Exact same as Window Shader Distance but supports transparency
   * Glow In The Dark Shader - Glows ONLY under shadows and when the Ambient Light is turned off
-  * Voxel Wheel Shader - For Pixel/Voxel cars this allows the wheels to spin without the model spinning as if it was an animated sprite
