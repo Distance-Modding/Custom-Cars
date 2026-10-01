@@ -62,6 +62,7 @@
   * Ripsaw
   * Chevy SS
   * VW Beetle (Chic-Haven Rush)
+  * Grave Digger (Not Monster Truck Mode Compatable)
 </details>
 <details>
   <summary>Lewis Madilton Cars</summary>
