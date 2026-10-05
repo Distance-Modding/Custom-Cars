@@ -32,6 +32,7 @@ These cars may originate from certain Hotwheels games like Beat That, Track Atta
   * [Misc] Tow Jam (Chic-Haven Rush Livery)
   * [EMR] Rollcage
   * [Misc] Bone Shaker Monster Truck (Not monster truck mode compatable)
+  * [Misc] Skull Crusher (Commissioned by Sunchipp, Modeled by Hazel)
 </details>
 <details>
   <summary>Zachphi's Cars</summary>
