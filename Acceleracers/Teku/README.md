@@ -8,4 +8,6 @@ Tekuized Mazda Miata by Sunchipp and Dropkick
 
 Teku Deora 1 by Sunchipp
 
+Kuna's Emporer by Akemi Claire
+
 Broken Cars: [Teku] High Voltage, [Teku] Power Rage
